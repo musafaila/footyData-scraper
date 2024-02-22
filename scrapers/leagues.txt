@@ -1,0 +1,97 @@
+EUROPE
+    - England
+        1. Premier League
+        2. Chanpionship
+        3. League One
+
+    - Spain
+        1. Laliga
+        2. Laliga 2 (segunda division)
+    
+    - Italy
+        1. Serie A
+        2. Serie B
+
+    - Germany
+        1. Bundesliga
+        2. Bundesliga 2
+        3. Bundesliga 3
+
+    - France
+        1. Ligue 1
+        2. Ligue 2
+
+    - Netherlands
+        1. Eredevisie
+        2. Eerste Divisie
+
+    - Portugal
+        1. Primiera Liga
+        2. Segunda Liga
+    
+    - Austria
+        1. Österreichische Bundesliga
+        2. Erste Liga
+    
+    - Denmark
+        1. superliga
+        2. 1st division
+
+    - Sweden
+        1. Allsvenskan
+        2. Superettan
+
+    - Norway
+        1. Eliteserien
+        2. OBOS-ligaen
+
+    - Czech Republic
+        1. Fortuna liga
+        2. FNL
+     
+    - Switzerland
+        1. Super League
+        2. Challenge League
+
+    - Belgium
+        1. Jupiler Pro League
+        2. Eerste Klasse B
+
+    - Scotland
+        1. Scottish Premiership
+        2. Scottish Championship
+    
+    - Cyprus
+        1. Cypriot First Division
+     
+    - Israel
+        1. Israeli Premier League:
+    
+    - Greece
+        1. Super League Greece
+
+    - Turkey
+        1. Süper Lig
+
+
+AMERICA
+    - United States and Canada
+        1. MLS
+
+    - Mexico
+        1. Liga MX
+
+    - Brazil
+        1. Serie A
+      
+    - Chile
+        1. Primera División
+
+    - Argentina
+        1. Primera División 
+
+    - Peru
+        1. Liga 1
+    
+    - Uruguay
+        1. Campeonato Uruguayo de Primera División
