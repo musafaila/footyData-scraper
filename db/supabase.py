@@ -1,8 +1,9 @@
 import os
 from supabase import create_client, Client
-
+# from supabase.error.httpcore import ConnectTimeout as supabaseTimeOutError
 
 from dotenv import load_dotenv
+from tenacity import retry_if_exception_type
 
 load_dotenv()
 
@@ -24,6 +25,7 @@ def initiate_client() -> Client:
 supabase = initiate_client()
 
 
+# @retry(retry=retry_if_exception_type(supabaseTimeOutError))
 def save_data(data_to_save: [], table):
 
     for data in data_to_save:
@@ -36,13 +38,14 @@ def save_data(data_to_save: [], table):
             continue
 
 
+# @retry(retry=retry_if_exception_type(supabaseTimeOutError))
 def fetch_data(
     table: str,
     query: str,
 ):
 
     try:
-        response = supabase.table(table).select(query).execute()        
+        response = supabase.table(table).select(query).execute()
 
         return response
     except httpcore.ConnectTimeout as timeout:

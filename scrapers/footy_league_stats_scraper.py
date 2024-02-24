@@ -6,7 +6,7 @@ from selenium import webdriver
 from .urls import FOOTYSTATS_BASE_URL, FOOTYSTATS_LEAGUE_URLS
 
 
-def scrape_league_info(driver: webdriver, league_url: str) -> {}:
+def parse_league_stats(driver: webdriver, league_url: str) -> {}:
     # open a new tab
     driver.execute_script("window.open('');")
     # switch to the new tab
@@ -54,7 +54,7 @@ def scrape_league_info(driver: webdriver, league_url: str) -> {}:
     }
 
 
-def scrape_all_leagues(driver: webdriver):
+def scrape_leagues_stats(driver: webdriver):
     if driver is None:
         return
 
@@ -63,7 +63,7 @@ def scrape_all_leagues(driver: webdriver):
     LEAUGE_DATA = []
     for url in FOOTYSTATS_LEAGUE_URLS:
         try:
-            data = scrape_league_info(driver, url)
+            data = parse_league_stats(driver, url)
             print(data)
             LEAUGE_DATA.append(data)
         except Exception as err:

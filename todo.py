@@ -1,0 +1,1 @@
+# TODO: Add proper error handling for both request, driver and supabase

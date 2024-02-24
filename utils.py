@@ -4,6 +4,8 @@ from tenacity import retry, stop_after_attempt, wait_fixed
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 
+import json
+
 
 @retry(stop=stop_after_attempt(5), wait=wait_fixed(1))
 def make_request(url):
@@ -22,7 +24,6 @@ def make_request(url):
         print(err)
 
 
-
 def initiate_driver():
     firefox_options: Options = Options()
     # firefox_options.add_argument("-headless")
@@ -33,3 +34,14 @@ def initiate_driver():
     except Exception as err:
         print("Driver initiation failed!")
         print(err)
+
+
+def save_to_json(file_path, data):
+    with open(file_path, "w") as json_file:
+        json.dump(data, json_file, indent=4, ensure_ascii=False)
+
+
+def load_json(file_path):
+    with open(file_path, 'r') as json_file:
+        data = json.load(json_file)
+        return data

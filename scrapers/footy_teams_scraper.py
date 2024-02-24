@@ -1,78 +1,83 @@
-from bs4 import BeautifulSoup
-import re
-
 from selenium import webdriver
+from bs4 import BeautifulSoup
+
+from scrapers.urls import FOOTYSTATS_BASE_URL
 
 
-FOOTYSTATS_BASE_URL = "https://footystats.org"
+def parse_team_stats(page_source):
+    soup = BeautifulSoup(page_source, "html.parser")
+    team_stats = {"title": soup.title}
 
+    identifiers = soup.find_all("h2", class_="section-title")
 
-def scrape_team_info(driver: webdriver) -> {}:
-    # open a new tab
-    driver.execute_script("window.open('');")
-    # switch to the new tab
-    driver.switch_to.window(driver.window_handles[1])
+    def find_stat_rows(caption: str) -> []:
+        for identifier in identifiers:
+            if caption.lower() in identifier.text.strip().lower():
+                stat_rows = (
+                    identifier.find_parent(class_="stat-group")
+                    .find("table")
+                    .find("tbody")
+                    .find_all("tr")
+                )
+                return stat_rows
 
-    # open the league url in the new tab
-    driver.get(f"{FOOTYSTATS_BASE_URL}{league_url}")
-    return {'title': driver.title}
+    def find_stat(caption: str, stat_rows: [], num=False) -> str:
+        for row in stat_rows:
+            key = row.find("td", class_="key")
+            if key.text.strip().lower() == caption.lower():
+                stats_cells = key.find_siblings("td")
 
-    # wait = WebDriverWait(driver, 10)
-    # wait.until(EC.title_contains(""))
-    # time.sleep(30)
+                if num:
+                    return [float(stat_cell.text.strip()) for stat_cell in stats_cells]
 
-    page_content = driver.page_source
-    # close the newly opened tab
-    driver.close()
-    # switch back to the old tab
-    driver.switch_to.window(driver.window_handles[0])
+                return [stat_cell.text.strip() for stat_cell in stats_cells]
 
-    soup: BeautifulSoup = BeautifulSoup(page_content, "html.parser")
+    goals_conc_rows = find_stat_rows("Goals Conceded")
 
-    league_name: str = soup.find("h1", class_="leagueName").text.strip()
-    league_name: str = re.match(r"(.+?) Table & Stats", league_name).group(1)
-
-    league_details_container = soup.find(class_="league-details")
-    details = league_details_container.find_all(class_="detail")
-
-    def find_detail(text: str) -> str or int:
-        for detail in details:
-            caption = detail.find(class_="w35")
-            if caption.text.strip().lower() == text.lower():
-                return detail.find(class_="w65").text.strip()
-
-    leauge_country: str = find_detail("nation")
-
-    leauge_division: str = find_detail("division")
-
-    leauge_num_of_teams: int = find_detail("teams")
+    gcr_ovrll = find_stat("Conceded / Match", goals_conc_rows, num=True)[0]
+    gcr_home = find_stat("Conceded / Match", goals_conc_rows, num=True)[1]
+    gcr_away = find_stat("Conceded / Match", goals_conc_rows, num=True)[-1]
 
     return {
-        "name": league_name,
-        "country": leauge_country,
-        "division": leauge_division,
-        "num_of_teams": leauge_num_of_teams,
-        "footystats_table_url": f"{FOOTYSTATS_BASE_URL}{league_url}",
+        "overall_stats": {"gcr_overall": gcr_ovrll},
+        "home_stats": {"gcr_home": gcr_home},
+        "away_stats": {"gcr_away": gcr_away},
     }
 
 
-def teams_scraper(driver: webdriver, league_data: []):
-    if driver is None:
-        return
-
-    driver.get(FOOTYSTATS_BASE_URL)
-
-    LEAGUE_URLS = [league_data["footystats_table_url"] for data in data]
-
-    LEAUGE_DATA = []
-    for url in LEAGUE_URLS:
+def scrape_teams_stats(driver: webdriver, teams_data: []):
+    TEAMS_STATS = []
+    for data in teams_data:
         try:
-            data = scrape_team_info(driver, url)
-            print(data)
-            LEAUGE_DATA.append(data)
+            team_url = data["footystats_url"]
+            team_id = data["id"]
+            # open a new tab
+            driver.execute_script("window.open('');")
+            # switch to the new tab
+            driver.switch_to.window(driver.window_handles[1])
+
+            # open the league url in the new tab
+            driver.get(team_url)
+
+            # get the page source
+            page_source = driver.page_source
+
+            # close the newly opened tab
+            driver.close()
+            # switch back to the old tab
+            driver.switch_to.window(driver.window_handles[0])
+
+            parsed_team_stats = parse_team_stats(page_source)
+            TEAMS_STATS.append(parsed_team_stats)
+
         except Exception as err:
-            print(f"Oops! could not scrape the url '{url}'.")
+            print(f"Oops! could not scrape the url '{team_url}'.")
             print(err)
             continue
 
-    return LEAUGE_DATA
+    return TEAMS_STATS
+
+
+""" Todo: Scraped Teams:
+        - England teams
+"""

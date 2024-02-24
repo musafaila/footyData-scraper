@@ -1,10 +1,8 @@
 from scrapers.scraper import scraper
 from parsers.parser import parser
 
-from utils import make_request, initiate_driver
+from utils import make_request, initiate_driver, save_to_json, load_json
 from db.supabase import save_data, initiate_client, fetch_data
-
-import json
 
 
 def main():
@@ -13,23 +11,23 @@ def main():
     parser(page_html)
 
     # run all scrapers here
+    all_teams_data = load_json("data/footy_teams_urls.json")
+
+    teams_data = []
+    for data in all_teams_data:
+        if data["country"] == "England":
+            for team in data["teams"]:
+                teams_data.append(team)
+
     with initiate_driver() as driver:
         if driver is None:
             print("Can't continue without a driver!!!")
             return
 
-        league_data = ""
-        with open("leagues_stats.json", "r") as f:
-            league_data = json.load(f)
+        data = scraper(driver=driver, **{"teams_data": teams_data[0:1]})
 
-        return league_data[0:1]
-
-        data = scraper(driver=driver, **{"league_data": league_data[0:1]})
-
-        return data
+        print(data)
 
 
 # if "__name__" == "__main__":
-data = main()
-
-print(data)
+main()
