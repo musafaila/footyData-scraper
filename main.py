@@ -1,33 +1,53 @@
-from scrapers.scraper import scraper
-from parsers.parser import parser
+# from scrapers.footystats.footystats import scraper as footystats_scraper
+from scrapers.primatips.scraper import primatips_scraper 
 
-from utils import make_request, initiate_driver, save_to_json, load_json
+# from scrapers.flashscore.flashscore import add_flash_urls
+
+from utils import (
+    safeRequest,
+    initiate_driver,
+    save_to_json,
+    load_json,
+    merge_json_files,
+)
+from lib.add_urls import add_teams_urls
 from db.supabase import save_data, initiate_client, fetch_data
 
 
 def main():
-    # run all parsers here
-    page_html = ""
-    parser(page_html)
 
+    for i in range(10, 37):
+        league_index: int = i
+
+        # Teams data that will represent the teamA data point
+        teams_data = load_json("data/teams.json")
+        # Leagues DB data that will represent the teamB data point
+        leagues_db_data = load_json("data/leagues_DB_records.json")
+
+        add_teams_urls(
+            teams_data,  # Json file 1
+            leagues_db_data,  # Json file 2
+            league_index=league_index,
+            **{
+                "scraping_func": primatips_scraper,
+                "req": safeRequest,
+                "driver": None,
+                "save_to_json": save_to_json,
+            }
+        )
+
+    # NOTE: THIS SPACE IS FOR FOOTYSTATS SCRAPERS!
     # run all scrapers here
-    all_teams_data = load_json("data/footy_teams_urls.json")
+    # with initiate_driver() as driver:
+    #     if driver is None:
+    #         print("Can't continue without a driver!!!")
+    #         return
 
-    teams_data = []
-    for data in all_teams_data:
-        if data["country"] == "England":
-            for team in data["teams"]:
-                teams_data.append(team)
+    #     data = footystats_scraper(driver=driver, **{"teams_data": teams_data})
 
-    with initiate_driver() as driver:
-        if driver is None:
-            print("Can't continue without a driver!!!")
-            return
+    #     save_to_json("data/isr_turk_grc_teams_stats.json", data)
 
-        data = scraper(driver=driver, **{"teams_data": teams_data[0:1]})
-
-        print(data)
+    #     [print(d) for d in data]
 
 
-# if "__name__" == "__main__":
 main()

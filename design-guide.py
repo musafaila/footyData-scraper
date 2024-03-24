@@ -14,20 +14,22 @@
             - Shots per game
             - Shots on target per game
             - Shots off target per game
+            - conversion rate
+            - Shots per goal scored
+            - Shots ontarget per goal scored
             - XG for
             - XG against
             - Possesion per game
+            
+            - Home advangate
 
         @sofascore or flashscore or somewhere
             - Big chances
             - Attacks
-            - Dangerous attacks
+            - Dangerous attacks 
             
             - Computables => 
-                - conversion rate
                 - conversion rate ontarget
-                - Shots per goal scored
-                - Shots ontarget per goal scored
 
     todo: League stats parameters
         @footystats

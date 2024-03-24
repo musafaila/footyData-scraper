@@ -1,0 +1,2810 @@
+[
+    {
+        "id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "name": "Challenge League",
+        "country": "Switzerland",
+        "primatips_table_url": "https://primatips.com/tables/switzerland/challenge-league",
+        "teams": [
+            {
+                "id": "aeb4d484-0562-46a5-b6e1-0a1c3187af98",
+                "name": "FC Sion"
+            },
+            {
+                "id": "4da5b9ef-d677-4cce-a4d7-a13308d4badc",
+                "name": "FC Thun"
+            },
+            {
+                "id": "e24aa68a-4a4a-41b3-9649-60eeea24d936",
+                "name": "FC Wil 1900"
+            },
+            {
+                "id": "c1009731-7b7d-494a-840f-09ed42d85aa3",
+                "name": "FC Aarau"
+            },
+            {
+                "id": "22109610-4578-4a9c-8ab4-cf107bba631e",
+                "name": "AC Bellinzona"
+            },
+            {
+                "id": "a3bfaa32-8be0-4d0b-af34-39428b0fb5c7",
+                "name": "Neuchâtel Xamax FCS"
+            },
+            {
+                "id": "e29b954f-d621-426b-9825-5ebe09bf1d77",
+                "name": "FC Stade Nyonnais"
+            },
+            {
+                "id": "8bfa0e9b-e27b-4416-96e2-2433d848cdd2",
+                "name": "FC Schaffhausen"
+            },
+            {
+                "id": "f3ba1a65-98d1-4196-b793-f593453a8573",
+                "name": "FC Vaduz"
+            },
+            {
+                "id": "0fae5070-f498-45eb-9cb0-4da1d3a3de57",
+                "name": "Baden"
+            }
+        ]
+    },
+    {
+        "id": "552119fe-4015-4c8c-b869-5864d322b12e",
+        "name": "Israeli Premier League",
+        "country": "Israel",
+        "primatips_table_url": "https://primatips.com/tables/israel",
+        "teams": [
+            {
+                "id": "bde8d432-dea2-4b58-8db5-987f8d9c2a73",
+                "name": "Maccabi Haifa FC"
+            },
+            {
+                "id": "782d6661-3c16-499e-af10-4a5a364028ce",
+                "name": "Maccabi Tel Aviv FC"
+            },
+            {
+                "id": "a2ab35d7-2d7a-49ac-a54e-1f099284e91d",
+                "name": "Hapoel Be'er Sheva FC"
+            },
+            {
+                "id": "0a9e9ac3-6881-4649-9721-2e96805597ba",
+                "name": "Hapoel Haifa FC"
+            },
+            {
+                "id": "afdcc37d-562f-4890-acb9-21ded8ff5e1b",
+                "name": "Maccabi Bnei Raina FC"
+            },
+            {
+                "id": "4098f8a5-6660-4a63-a395-cdc92e95efe6",
+                "name": "Ihoud Bnei Sakhnin FC"
+            },
+            {
+                "id": "ecf28afc-b2ba-4bb2-b878-10bdb6f9f731",
+                "name": "Beitar Jerusalem FC"
+            },
+            {
+                "id": "d00fcc6c-8a75-48cd-839c-b489997cf392",
+                "name": "Maccabi Petah Tikva FC"
+            },
+            {
+                "id": "86b9ec5b-f2d5-473c-9f69-9edd7d47ea6e",
+                "name": "Hapoel Tel Aviv FC"
+            },
+            {
+                "id": "2db7045b-e520-4295-b8b6-5e12b7402216",
+                "name": "Maccabi Netanya FC"
+            },
+            {
+                "id": "cef3f3eb-c657-4cfa-9699-509799eb6e9d",
+                "name": "Hapoel Katamon Jerusalem FC"
+            },
+            {
+                "id": "7b699f34-991a-466e-a969-284720e8abfd",
+                "name": "FC Ashdod"
+            },
+            {
+                "id": "3e55d700-67c1-451a-a3c7-c67a15becf37",
+                "name": "Hapoel Hadera"
+            },
+            {
+                "id": "15da91d1-7360-4fab-a353-4df0bd761f7e",
+                "name": "Hapoel Petah Tikva FC"
+            }
+        ]
+    },
+    {
+        "id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "name": "Championship",
+        "country": "England",
+        "primatips_table_url": "https://primatips.com/tables/england/championship",
+        "teams": [
+            {
+                "id": "0ebb8323-d0dc-480f-8023-265eff676742",
+                "name": "Leicester City FC"
+            },
+            {
+                "id": "cfa82889-c388-4f17-a3a5-82f874031a4a",
+                "name": "Leeds United FC"
+            },
+            {
+                "id": "f34a70f9-0dd1-4754-9e70-58421a4b635b",
+                "name": "Ipswich Town FC"
+            },
+            {
+                "id": "a9cea411-2661-476b-b30a-2816bfda1bd9",
+                "name": "Southampton FC"
+            },
+            {
+                "id": "e5354855-0da8-4ec9-8330-5dedbd225afc",
+                "name": "West Bromwich Albion FC"
+            },
+            {
+                "id": "e3fe92d9-5704-4851-a944-4e7f106590dd",
+                "name": "Hull City AFC"
+            },
+            {
+                "id": "c0bbff0f-5bca-4228-a9ca-7be10149e790",
+                "name": "Coventry City FC"
+            },
+            {
+                "id": "c8de1517-144d-4ef3-b881-c7243a16bec4",
+                "name": "Norwich City FC"
+            },
+            {
+                "id": "f76c1040-4ae5-466b-818b-6b3d30600c58",
+                "name": "Preston North End FC"
+            },
+            {
+                "id": "88f0736d-cc99-490e-905f-4f9f106fe11b",
+                "name": "Sunderland AFC"
+            },
+            {
+                "id": "4c8a43e6-c8a9-4462-b92b-732122f181eb",
+                "name": "Watford FC"
+            },
+            {
+                "id": "a1df637e-43c0-4651-a40b-12b69e4fc142",
+                "name": "Bristol City FC"
+            },
+            {
+                "id": "1317a9f8-729b-419d-afe6-a848ee64fb5f",
+                "name": "Middlesbrough FC"
+            },
+            {
+                "id": "171a4366-24a5-4f95-b5fa-e9df837b7659",
+                "name": "Cardiff City FC"
+            },
+            {
+                "id": "75e7e84b-6a05-4a31-b92b-7e74d829b41a",
+                "name": "Birmingham City FC"
+            },
+            {
+                "id": "365e0175-9987-4885-ba7f-514538c3ec48",
+                "name": "Blackburn Rovers FC"
+            },
+            {
+                "id": "72447cf2-4315-45e7-8270-8842b5ce4916",
+                "name": "Plymouth Argyle FC"
+            },
+            {
+                "id": "f3b1dbe0-cfbb-4879-8e36-31c6452dd6e5",
+                "name": "Swansea City AFC"
+            },
+            {
+                "id": "b70fab53-b1b0-402d-88c0-bb12d4093a9c",
+                "name": "Stoke City FC"
+            },
+            {
+                "id": "01e53117-3de6-436d-8570-98856fc3a694",
+                "name": "Huddersfield Town FC"
+            },
+            {
+                "id": "26f8e280-859a-41b4-bd42-60e1118b7322",
+                "name": "Millwall FC"
+            },
+            {
+                "id": "2a461f8e-ce8f-4eed-8fe8-2c4cda8f6d73",
+                "name": "Queens Park Rangers FC"
+            },
+            {
+                "id": "d4d0a2dc-4d4d-4e2f-b76b-01bc89c2b744",
+                "name": "Sheffield Wednesday FC"
+            },
+            {
+                "id": "709cf6a0-9d51-4ea0-b7f3-041462a027c5",
+                "name": "Rotherham United FC"
+            }
+        ]
+    },
+    {
+        "id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "name": "Bundesliga",
+        "country": "Germany",
+        "primatips_table_url": "https://primatips.com/tables/germany",
+        "teams": [
+            {
+                "id": "1ce4952f-3175-43a1-a8a8-4be96f4058a1",
+                "name": "Bayer 04 Leverkusen"
+            },
+            {
+                "id": "39684eca-f998-4710-bd12-86c4fbd03c90",
+                "name": "FC Bayern München"
+            },
+            {
+                "id": "195ec968-6e75-47de-9885-82484f675723",
+                "name": "VfB Stuttgart 1893"
+            },
+            {
+                "id": "a2358d74-4840-4d49-91ae-2fd32740c36d",
+                "name": "BVB 09 Borussia Dortmund"
+            },
+            {
+                "id": "6f5aced7-116e-4af0-b30f-47da63b5b527",
+                "name": "Rasen Ballsport Leipzig"
+            },
+            {
+                "id": "af65a2a9-d271-4e4d-a923-dc7de537df6e",
+                "name": "Eintracht Frankfurt"
+            },
+            {
+                "id": "3acc69e9-22a6-4a50-b605-8a5bbef8a95a",
+                "name": "SV Werder Bremen"
+            },
+            {
+                "id": "5d654ecf-1a2a-451b-b713-cf6213f1f599",
+                "name": "SC Freiburg"
+            },
+            {
+                "id": "821b469d-cf14-4183-bde1-aa05406030bc",
+                "name": "TSG 1899 Hoffenheim"
+            },
+            {
+                "id": "f164b42a-73be-4c38-accb-408327c94f58",
+                "name": "1. FC Heidenheim 1846"
+            },
+            {
+                "id": "81353052-4d55-4cc4-b985-f4bfaf56448c",
+                "name": "VfL Bochum 1848"
+            },
+            {
+                "id": "15b21d88-12fb-478f-b2e4-d7500d01f5f8",
+                "name": "VfL Wolfsburg"
+            },
+            {
+                "id": "fd0fd749-d35a-4e4f-8625-5e58e52e8926",
+                "name": "1. FC Union Berlin"
+            },
+            {
+                "id": "fce333fa-8312-42d9-964c-2b128640ce4a",
+                "name": "FC Augsburg"
+            },
+            {
+                "id": "22c1d617-8b43-43dd-993b-ae839b4f2fa7",
+                "name": "Borussia VfL Mönchengladbach"
+            },
+            {
+                "id": "6c85fd1f-5cd2-492a-b446-99b4c7c5af9d",
+                "name": "1. FC Köln"
+            },
+            {
+                "id": "33a23cb1-fd1e-45fd-ac5d-c9f21da1e2fd",
+                "name": "1. FSV Mainz 05"
+            },
+            {
+                "id": "db87087c-4883-4d7d-9669-511b9bf766a2",
+                "name": "SV Darmstadt 1898"
+            }
+        ]
+    },
+    {
+        "id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "name": "2. Bundesliga",
+        "country": "Germany",
+        "primatips_table_url": "https://primatips.com/tables/germany/2-bundesliga",
+        "teams": [
+            {
+                "id": "ef4a516e-1163-49fa-bdca-58e3af4d3780",
+                "name": "FC St. Pauli"
+            },
+            {
+                "id": "07a84611-fed8-4dfe-b1c1-174653ece82d",
+                "name": "Kieler SV Holstein 1900"
+            },
+            {
+                "id": "4a3b976c-1eaf-405c-800a-21b6209a90e3",
+                "name": "Hamburger SV"
+            },
+            {
+                "id": "0696ef68-aafb-4aee-9cba-71e48df5569e",
+                "name": "Hannoverscher Sportverein 1896"
+            },
+            {
+                "id": "5ab48f20-ed9c-4985-9229-df85c7112b75",
+                "name": "SpVgg Greuther Fürth"
+            },
+            {
+                "id": "14cf0b80-6cf0-4972-be56-0f2058af99c6",
+                "name": "SC Paderborn 07"
+            },
+            {
+                "id": "4acd930c-42aa-4332-8168-90663ecc9625",
+                "name": "Düsseldorfer TuS Fortuna 1895"
+            },
+            {
+                "id": "d1c8e328-ab74-461d-8c60-bc1975235ff5",
+                "name": "Hertha BSC"
+            },
+            {
+                "id": "775f321e-7d3d-4b3a-8e28-b2304775f8ee",
+                "name": "SV 07 Elversberg"
+            },
+            {
+                "id": "e21d7947-b274-439c-9508-c65d85d94523",
+                "name": "1. FC Nürnberg"
+            },
+            {
+                "id": "afcd11d5-de7e-4aa7-82d9-9e7e67934406",
+                "name": "Karlsruher SC"
+            },
+            {
+                "id": "3db26d53-c30d-45e5-bdd6-0f45f2444404",
+                "name": "1. FC Magdeburg"
+            },
+            {
+                "id": "e2d932d1-7bdc-4495-998b-e75298f3840a",
+                "name": "SV Wehen Wiesbaden"
+            },
+            {
+                "id": "078836dc-a289-4d00-8733-55e94b2ba1b5",
+                "name": "FC Schalke 04"
+            },
+            {
+                "id": "d05d283d-772c-4cce-8781-d7b0f494c3e9",
+                "name": "Eintracht Braunschweig"
+            },
+            {
+                "id": "31ddec68-fcf8-47f3-836f-09986b74bf81",
+                "name": "1. FC Kaiserslautern"
+            },
+            {
+                "id": "d18a13ff-7c7e-4e6a-910e-81ad4d12f45c",
+                "name": "FC Hansa Rostock"
+            },
+            {
+                "id": "52c82673-8dcc-401d-9be5-d6fdae05553f",
+                "name": "VfL Osnabrück"
+            }
+        ]
+    },
+    {
+        "id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "name": "3. Liga",
+        "country": "Germany",
+        "primatips_table_url": "https://primatips.com/tables/germany/3-liga",
+        "teams": [
+            {
+                "id": "eb327b40-48cf-41fb-b831-7f9f374aa977",
+                "name": "SSV Jahn 2000 Regensburg"
+            },
+            {
+                "id": "64b0f30c-4b1b-4b29-979b-bc5698a09a2d",
+                "name": "SG Dynamo Dresden"
+            },
+            {
+                "id": "fc7415a5-ba95-4bbe-a017-217819812445",
+                "name": "SSV Ulm 1846"
+            },
+            {
+                "id": "733df642-264f-4dee-af64-15a245d143cf",
+                "name": "BV Borussia 09 Dortmund II"
+            },
+            {
+                "id": "99398ca2-16bc-40a3-83db-524c31c2f31a",
+                "name": "SV Sandhausen"
+            },
+            {
+                "id": "07a93124-f83a-47aa-b2da-f44c35086769",
+                "name": "Rot-Weiss Essen"
+            },
+            {
+                "id": "2523f6c0-c486-464e-8372-dea46eeaa225",
+                "name": "FC Erzgebirge Aue"
+            },
+            {
+                "id": "10f5d377-ab58-44c3-8580-9edc363530da",
+                "name": "SC Preußen 06 Münster"
+            },
+            {
+                "id": "4aee204b-8b14-42c5-905d-c3ab329948a2",
+                "name": "SpVgg Unterhaching"
+            },
+            {
+                "id": "91eb64ee-b0d2-40f6-ba9e-32fde9affb85",
+                "name": "FC Ingolstadt 04"
+            },
+            {
+                "id": "92535ba9-62f7-4438-a9a5-b13d107371dd",
+                "name": "1. FC Saarbrucken"
+            },
+            {
+                "id": "d74ec1c8-ab5e-4698-93dc-831446e8f021",
+                "name": "SC Verl 1924"
+            },
+            {
+                "id": "fef39cbd-1854-4664-9d32-6ff40a2cf00b",
+                "name": "TSV 1860 München"
+            },
+            {
+                "id": "d503cc82-a064-476a-b04b-f3363d6ddda4",
+                "name": "FC Viktoria Köln"
+            },
+            {
+                "id": "edd84f57-ec31-4b10-b85f-f53d676fdaf8",
+                "name": "DSC Arminia Bielefeld"
+            },
+            {
+                "id": "a78d6a73-5c2c-49ce-99ef-f0a6344e64e3",
+                "name": "Hallescher FC"
+            },
+            {
+                "id": "ec689a6d-6eed-4190-b2d4-dbd1319ec628",
+                "name": "SV Waldhof Mannheim 07"
+            },
+            {
+                "id": "921bf698-3445-4177-b13a-8396974d3e1f",
+                "name": "MSV Duisburg"
+            },
+            {
+                "id": "0df5eefe-aa7d-459e-81c2-48bd0c0bbe64",
+                "name": "VfB Lübeck"
+            },
+            {
+                "id": "47f9a9f2-6b40-4901-b061-88b922dbaf69",
+                "name": "SC Freiburg II"
+            }
+        ]
+    },
+    {
+        "id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "name": "La Liga",
+        "country": "Spain",
+        "primatips_table_url": "https://primatips.com/tables/spain",
+        "teams": [
+            {
+                "id": "a31096f5-beb8-495f-b5c7-2872993f6f55",
+                "name": "Real Madrid CF"
+            },
+            {
+                "id": "8aa51551-7361-4359-b32a-80cc28c3cfa4",
+                "name": "Girona FC"
+            },
+            {
+                "id": "8f4a2c46-e61d-4933-9b76-defa393e0da2",
+                "name": "FC Barcelona"
+            },
+            {
+                "id": "08d43a7a-c488-4fa6-abc6-2295df50ff53",
+                "name": "Club Atlético de Madrid"
+            },
+            {
+                "id": "fe515f8a-f97b-4363-9e56-57a765991131",
+                "name": "Athletic Club Bilbao"
+            },
+            {
+                "id": "36fa9bdc-9a53-4246-8a35-4deac2c17879",
+                "name": "Real Sociedad de Fútbol"
+            },
+            {
+                "id": "5f11a2bc-1b2d-4c57-94b2-b63d4de11126",
+                "name": "Real Betis Balompié"
+            },
+            {
+                "id": "94993d10-4018-407c-82e0-a42cad2583e8",
+                "name": "Valencia CF"
+            },
+            {
+                "id": "8a11353f-0cbc-4cb0-82b5-6c455751891f",
+                "name": "UD Las Palmas"
+            },
+            {
+                "id": "bd9be5ea-e54b-468d-9b40-e7d3985631cd",
+                "name": "Getafe Club de Fútbol"
+            },
+            {
+                "id": "8d3e2b21-2171-4d19-bd14-c4e2354a84e7",
+                "name": "CA Osasuna"
+            },
+            {
+                "id": "1c7fa1d6-931b-4fe6-ac24-058e62ac7a13",
+                "name": "Deportivo Alavés"
+            },
+            {
+                "id": "4263f309-8502-44bf-93b5-c35597eeba98",
+                "name": "Villarreal CF"
+            },
+            {
+                "id": "0a9ca0df-1821-4fe5-b059-7c6fbc4e6eac",
+                "name": "Rayo Vallecano"
+            },
+            {
+                "id": "ace43ce4-884a-40c9-ae1a-b0d93263a405",
+                "name": "Sevilla FC"
+            },
+            {
+                "id": "cf8c3135-0c6e-4636-acbf-9b6278dcb6c9",
+                "name": "Real Club Deportivo Mallorca"
+            },
+            {
+                "id": "e242cf5e-2dc5-47cc-b6cc-a27a6e445913",
+                "name": "Real Club Celta de Vigo"
+            },
+            {
+                "id": "cc6af37a-9261-44aa-b6f2-67e0b751f0de",
+                "name": "Cádiz CF"
+            },
+            {
+                "id": "b283775c-8bb0-444f-9091-8189a149f299",
+                "name": "Granada CF"
+            },
+            {
+                "id": "1c26ba12-c845-4c53-92d3-a86523a67bf4",
+                "name": "UD Almería"
+            }
+        ]
+    },
+    {
+        "id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "name": "Segunda División",
+        "country": "Spain",
+        "primatips_table_url": "https://primatips.com/tables/spain/segunda-division",
+        "teams": [
+            {
+                "id": "c62eeea7-a896-4298-a5c2-dffa55caf751",
+                "name": "CD Leganés"
+            },
+            {
+                "id": "64f170e3-ba07-4faf-9369-7040e7415eea",
+                "name": "SD Eibar"
+            },
+            {
+                "id": "6e080d56-3678-478c-bbcb-fcf012fd6da8",
+                "name": "Reial Club Deportiu Espanyol"
+            },
+            {
+                "id": "46bdb773-cf98-4faa-913e-1b235bb8885e",
+                "name": "Real Sporting de Gijón"
+            },
+            {
+                "id": "8ab99fd1-8ea6-48b9-ad4c-9382d4a0d481",
+                "name": "Racing Club de Ferrol"
+            },
+            {
+                "id": "41e03973-af85-4ffa-8dc3-3d63730f8c9f",
+                "name": "Real Valladolid"
+            },
+            {
+                "id": "f5d4e315-8dc1-4b13-ad70-740c210ff065",
+                "name": "Real Oviedo"
+            },
+            {
+                "id": "2a94e5d3-0c36-45b4-b131-242b664df829",
+                "name": "Elche CF"
+            },
+            {
+                "id": "aeaa6742-e93d-44af-8436-b9512a177ef6",
+                "name": "Real Racing Club de Santander"
+            },
+            {
+                "id": "17ff8618-01c4-459b-9cc6-37c113bb21b4",
+                "name": "Levante UD"
+            },
+            {
+                "id": "75ba4943-d5be-4d30-8835-bd9a6a46c46d",
+                "name": "Burgos CF"
+            },
+            {
+                "id": "4c77cdc2-a168-4617-8504-af20c7f4b7bc",
+                "name": "Real Zaragoza"
+            },
+            {
+                "id": "20b4a734-7605-4cb9-84f1-ad67b56c7026",
+                "name": "CD Tenerife"
+            },
+            {
+                "id": "d1ad4cce-c8dc-4134-8dad-9bd0b7c043e6",
+                "name": "CD Eldense"
+            },
+            {
+                "id": "cfd90f64-7e49-425b-864e-557711cecc41",
+                "name": "CD Mirandés"
+            },
+            {
+                "id": "fb8ee914-4ae6-4665-a246-e78257f42cc1",
+                "name": "FC Cartagena"
+            },
+            {
+                "id": "938a7a1c-4cd4-4c93-8e41-500bd45d6079",
+                "name": "Albacete Balompié"
+            },
+            {
+                "id": "5d21e8d3-66be-4282-b2df-89a3b50269ee",
+                "name": "SD Huesca"
+            },
+            {
+                "id": "5af05890-1e13-4cfe-b4e1-b4ded46f69d3",
+                "name": "Villarreal CF II"
+            },
+            {
+                "id": "33653c45-2e64-45a5-91ec-0e8b9872874f",
+                "name": "AD Alcorcón"
+            },
+            {
+                "id": "2068c0c4-1ce8-4e07-a783-7445967d9848",
+                "name": "FC Andorra"
+            },
+            {
+                "id": "7de44eab-0ef7-44cd-befc-f77c29f952c5",
+                "name": "SD Amorebieta"
+            }
+        ]
+    },
+    {
+        "id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "name": "Serie A",
+        "country": "Italy",
+        "primatips_table_url": "https://primatips.com/tables/italy",
+        "teams": [
+            {
+                "id": "c1cbd374-0c4b-4514-a9fc-692b40e51cca",
+                "name": "FC Internazionale Milano"
+            },
+            {
+                "id": "d4c0594b-f32b-4e2c-b2fb-aba389f24c2b",
+                "name": "Juventus FC"
+            },
+            {
+                "id": "c7f437f5-8943-4af0-9aa0-b42cb4b6e3e1",
+                "name": "AC Milan"
+            },
+            {
+                "id": "196f9725-95de-48ec-a438-b2fe95fcb40e",
+                "name": "Atalanta Bergamasca Calcio"
+            },
+            {
+                "id": "d6d3f16e-ef5c-4162-891b-7288e8696daa",
+                "name": "Bologna FC 1909"
+            },
+            {
+                "id": "1c3d6394-f8ea-4e81-9b40-dc82609328fd",
+                "name": "AS Roma"
+            },
+            {
+                "id": "ada040f1-c664-4bd9-b639-128bac7c4475",
+                "name": "SS Lazio"
+            },
+            {
+                "id": "009e1678-80eb-44c9-83ff-68065fd2eaa4",
+                "name": "ACF Fiorentina"
+            },
+            {
+                "id": "ae61cbf4-1eee-4367-b2dc-03f167528325",
+                "name": "SSC Napoli"
+            },
+            {
+                "id": "471a67cc-4d58-4341-97a8-8308f0fbe787",
+                "name": "Torino FC"
+            },
+            {
+                "id": "91b36686-6063-49ae-8cb0-084dbe4ad333",
+                "name": "SS Monza 1912"
+            },
+            {
+                "id": "129f0af7-a497-478c-a318-66740e4b351f",
+                "name": "Genoa CFC"
+            },
+            {
+                "id": "87c5a346-0c07-45e4-a87d-18ce8318189d",
+                "name": "US Lecce"
+            },
+            {
+                "id": "c67b2ea3-c9b2-4ebc-9887-2f76318cb590",
+                "name": "Udinese Calcio"
+            },
+            {
+                "id": "20138213-952a-4ef1-8035-9fbcd27f560a",
+                "name": "Frosinone Calcio"
+            },
+            {
+                "id": "72bdc819-0c28-42a5-89be-870d7ecb8cdf",
+                "name": "Empoli FC"
+            },
+            {
+                "id": "1cea1a63-7fbf-40ed-9a40-11736e07589f",
+                "name": "Hellas Verona FC"
+            },
+            {
+                "id": "a11f6e49-76d4-4ad4-b91f-f1e97b2f542e",
+                "name": "US Sassuolo Calcio"
+            },
+            {
+                "id": "109ed151-ee78-40a0-9a16-20adb855459f",
+                "name": "Cagliari Calcio"
+            },
+            {
+                "id": "78a883f8-2ceb-4961-a7c4-6979fb6b4f71",
+                "name": "US Salernitana 1919"
+            }
+        ]
+    },
+    {
+        "id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "name": "Serie B",
+        "country": "Italy",
+        "primatips_table_url": "https://primatips.com/tables/italy/serie-b",
+        "teams": [
+            {
+                "id": "92d4e6cb-4ffe-46bf-a40c-387cae49b941",
+                "name": "Parma Calcio 1913"
+            },
+            {
+                "id": "5bd93d37-b1fd-424a-8360-7f5dd41bf378",
+                "name": "US Cremonese"
+            },
+            {
+                "id": "c6296990-ef6f-44f3-8056-dd12d25ae916",
+                "name": "US Città di Palermo"
+            },
+            {
+                "id": "22e2d5ef-88c0-423f-a828-a3666524ca63",
+                "name": "Venezia FC"
+            },
+            {
+                "id": "a5e6b0ef-f824-4cff-99da-211db1eb3c67",
+                "name": "Calcio Como"
+            },
+            {
+                "id": "408a43a5-8af7-4ed1-ae09-471c9eec86ff",
+                "name": "Catanzaro Calcio 2011"
+            },
+            {
+                "id": "a4ec7a52-fb9a-4f91-988b-8bfdfd32950e",
+                "name": "AS Cittadella"
+            },
+            {
+                "id": "aa66575e-4872-41dd-8bce-6c861809cf1a",
+                "name": "Modena FC"
+            },
+            {
+                "id": "3c1abcc0-be6e-444b-aea3-7ec2511d7d4a",
+                "name": "Brescia Calcio"
+            },
+            {
+                "id": "e8e0312b-4c3e-4f62-89ee-f069b6498f04",
+                "name": "FC Bari 1908"
+            },
+            {
+                "id": "ec75cb2a-5941-459a-aa0e-4cff0770901b",
+                "name": "Cosenza Calcio"
+            },
+            {
+                "id": "afa7bfd8-9ae7-4c24-8cfc-d6f95b4bc826",
+                "name": "AC Pisa 1909"
+            },
+            {
+                "id": "d636614c-8a60-441c-82dd-e1c86a07ce66",
+                "name": "AC Reggiana 1919"
+            },
+            {
+                "id": "6262f004-8d5c-4255-b8c2-d1bbdc71283c",
+                "name": "FC Südtirol"
+            },
+            {
+                "id": "e6144ed5-5763-4e1e-9d0c-82bc74e1c530",
+                "name": "UC Sampdoria"
+            },
+            {
+                "id": "31f4c2ef-5145-4f80-9990-4f10914c40ba",
+                "name": "Ternana Calcio"
+            },
+            {
+                "id": "5b7c60e6-4c38-4e79-9c6a-8fdfa096ab6c",
+                "name": "ASD Spezia Calcio 2008"
+            },
+            {
+                "id": "0936b3bc-5bc2-43be-b6c2-f028294db7d0",
+                "name": "Ascoli Picchio FC 1898"
+            },
+            {
+                "id": "c5c8cfba-e776-4f29-b07a-57eaa266a2ae",
+                "name": "FeralpiSalò Srl"
+            },
+            {
+                "id": "98d1e1ae-bafe-4cc1-935e-fb68bddb637c",
+                "name": "Calcio Lecco 1912"
+            }
+        ]
+    },
+    {
+        "id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "name": "Ligue 1",
+        "country": "France",
+        "primatips_table_url": "https://primatips.com/tables/france",
+        "teams": [
+            {
+                "id": "3abbc0b7-e8d3-4947-a8cd-44a16c2cf560",
+                "name": "Paris Saint-Germain FC"
+            },
+            {
+                "id": "8a85861c-c916-4edb-9b9e-d6b84809512a",
+                "name": "Stade Brestois 29"
+            },
+            {
+                "id": "8bafd21e-cc1f-46f5-ab7a-d0bfec3b4d1c",
+                "name": "OGC Nice Côte d'Azur"
+            },
+            {
+                "id": "b20a6f15-15c0-4e5a-8310-340490994814",
+                "name": "Lille OSC Métropole"
+            },
+            {
+                "id": "4439fc17-aaa6-4f53-b5e4-63dc3da83587",
+                "name": "AS Monaco FC"
+            },
+            {
+                "id": "832e78ac-9fa1-461f-9d58-14c4509fca6d",
+                "name": "Racing Club de Lens"
+            },
+            {
+                "id": "dc8b5e75-2cc4-4d9b-9063-aea7a21a6cc6",
+                "name": "Stade Rennais FC"
+            },
+            {
+                "id": "e1fb1832-c1d6-4261-823f-074377382891",
+                "name": "Stade de Reims"
+            },
+            {
+                "id": "b52bbdba-05be-42a8-8088-03332a3d6ab4",
+                "name": "Olympique de Marseille"
+            },
+            {
+                "id": "28eb5b1c-62d3-404e-a15d-a105cdc07183",
+                "name": "RC Strasbourg Alsace"
+            },
+            {
+                "id": "ba1204bd-bbe5-427b-887d-47e38089db28",
+                "name": "Olympique Lyonnais"
+            },
+            {
+                "id": "a6c10f0f-261b-4d5c-abfa-98fb603026c1",
+                "name": "Le Havre AC"
+            },
+            {
+                "id": "ba5c9a8c-c2bb-4b4b-a50c-1f2b5005af6a",
+                "name": "Toulouse FC"
+            },
+            {
+                "id": "7e7aaa0f-7904-4422-ae89-3a08a0e9a378",
+                "name": "Montpellier HSC"
+            },
+            {
+                "id": "2632c217-66e1-4e6a-89fa-78eb04d33398",
+                "name": "FC Nantes"
+            },
+            {
+                "id": "a8df7d05-190b-4618-b2a3-f60a6e410025",
+                "name": "FC Lorient"
+            },
+            {
+                "id": "c1676dd2-8ad2-4d58-8d17-357c6c8b9b41",
+                "name": "FC Metz"
+            },
+            {
+                "id": "8f6dd89f-45a1-49af-942d-ac178d84a332",
+                "name": "Clermont Foot 63"
+            }
+        ]
+    },
+    {
+        "id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "name": "Ligue 2",
+        "country": "France",
+        "primatips_table_url": "https://primatips.com/tables/france/ligue-2",
+        "teams": [
+            {
+                "id": "373dc9b9-4048-418d-af78-2c35371e4527",
+                "name": "Auxerre"
+            },
+            {
+                "id": "c270200c-3b47-4a7e-82cb-2b168caf366d",
+                "name": "Angers SCO"
+            },
+            {
+                "id": "6abb55d7-523e-423a-a465-a3fb0d54e232",
+                "name": "Stade Lavallois Mayenne FC"
+            },
+            {
+                "id": "e24171a5-44ce-49d1-8134-5d301ac3de6a",
+                "name": "Grenoble Foot 38"
+            },
+            {
+                "id": "6527cf23-7f08-44e4-a15e-50a3f39f2fb3",
+                "name": "AS Saint-Étienne"
+            },
+            {
+                "id": "f3564daf-b07f-4b0b-9672-589a2afa4000",
+                "name": "AC Ajaccio"
+            },
+            {
+                "id": "f6d75a1a-b340-4fd8-a556-71f23c8dff68",
+                "name": "Stade Malherbe Caen"
+            },
+            {
+                "id": "11bcf08d-4d99-499a-b8ff-40a1303087dc",
+                "name": "Amiens SC"
+            },
+            {
+                "id": "8ace72e9-223e-4624-bca1-205e26da5dbe",
+                "name": "En Avant Guingamp"
+            },
+            {
+                "id": "6916e2d4-a435-47fc-af85-283e4a4253ee",
+                "name": "Rodez Aveyron Football"
+            },
+            {
+                "id": "01f7314e-1522-4937-b672-cdff7af9fb77",
+                "name": "Paris FC"
+            },
+            {
+                "id": "eb597b29-8886-41f1-a687-15c049cb8633",
+                "name": "Pau FC"
+            },
+            {
+                "id": "fbc32fe9-f5bb-45fd-82e6-435289234819",
+                "name": "FC Girondins de Bordeaux"
+            },
+            {
+                "id": "a2b156b0-2a99-42fb-8fb0-ae8bca4c7b6f",
+                "name": "US Concarnoise"
+            },
+            {
+                "id": "e188f19b-f2c5-4acb-94be-9bded9c79b99",
+                "name": "Troyes"
+            },
+            {
+                "id": "5fff713d-ae6b-4373-a29b-26e18df4a74d",
+                "name": "SC Bastia"
+            },
+            {
+                "id": "0976b96f-b771-49ce-8291-f96eebbe56b7",
+                "name": "US du Littoral de Dunkerque"
+            },
+            {
+                "id": "c180231c-f6e9-4fea-90a0-62f3650a0dfd",
+                "name": "US Quevilly Rouen Metropole"
+            },
+            {
+                "id": "e201899b-87d4-4b02-8ae8-df723be1d436",
+                "name": "FC Annecy"
+            },
+            {
+                "id": "2b079db9-e838-4fca-a8dd-7dfdd07fb7d9",
+                "name": "Valenciennes FC"
+            }
+        ]
+    },
+    {
+        "id": "d4d2113e-4a38-41d4-a9ab-64d8f8ff41e9",
+        "name": "Eredivisie",
+        "country": "Netherlands",
+        "primatips_table_url": "https://primatips.com/tables/netherlands",
+        "teams": [
+            {
+                "id": "f2f43f86-b98b-4c28-819d-c7f94825389b",
+                "name": "PSV Eindhoven"
+            },
+            {
+                "id": "7a8727cb-388e-4c7f-b0ee-d52c158092b2",
+                "name": "Feyenoord Rotterdam"
+            },
+            {
+                "id": "935bd51e-4579-4440-aacf-6e6ed93866cd",
+                "name": "FC Twente"
+            },
+            {
+                "id": "483c4f65-c6f7-46d6-bbf6-c9efac493ca3",
+                "name": "Alkmaar Zaanstreek"
+            },
+            {
+                "id": "5cc09d3e-a9f7-4155-a40e-486db7d5f6e8",
+                "name": "AFC Ajax"
+            },
+            {
+                "id": "3bcee1a9-3025-46eb-9cae-d0a2f8e63748",
+                "name": "Go Ahead Eagles"
+            },
+            {
+                "id": "48e8b9a2-66cd-43a0-83f3-099d2f90c41c",
+                "name": "Nijmegen Eendracht Combinatie"
+            },
+            {
+                "id": "fc0ece0a-67ac-49cc-8b3e-68054445ce9a",
+                "name": "FC Utrecht"
+            },
+            {
+                "id": "cd44de59-2755-4459-88b1-e7b8b1255538",
+                "name": "Sparta Rotterdam"
+            },
+            {
+                "id": "55eb0141-7bb7-4a49-8f4a-6e15bf75ef30",
+                "name": "PEC Zwolle"
+            },
+            {
+                "id": "f6cd25cc-83c9-451e-89cf-d2f1d8ad4238",
+                "name": "Almere City FC"
+            },
+            {
+                "id": "cfd470d2-c067-4801-bd82-e96ef6c5abcd",
+                "name": "SC Heerenveen"
+            },
+            {
+                "id": "9d1ab6ca-e6c1-463f-bbd6-955f765fa12c",
+                "name": "Fortuna Sittard"
+            },
+            {
+                "id": "e55c366e-915c-472d-8f1d-72325442bc7a",
+                "name": "Heracles Almelo"
+            },
+            {
+                "id": "39b86795-02ec-4cd3-85ce-066785f49c66",
+                "name": "SBV Excelsior"
+            },
+            {
+                "id": "4dd0f4c1-5b38-4745-bb41-ec6532816118",
+                "name": "RKC Waalwijk"
+            },
+            {
+                "id": "434e75c8-facd-4089-8794-da5096d57fc5",
+                "name": "SBV Vitesse"
+            },
+            {
+                "id": "88e751c5-7050-40cb-8677-7e8277d7d613",
+                "name": "FC Volendam"
+            }
+        ]
+    },
+    {
+        "id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "name": "Eerste Divisie",
+        "country": "Netherlands",
+        "primatips_table_url": "https://primatips.com/tables/netherlands/eerste-divisie",
+        "teams": [
+            {
+                "id": "42030e92-f1c0-46bc-83f0-ec14ffbc11a2",
+                "name": "Willem II"
+            },
+            {
+                "id": "adfe5751-0039-44f9-b443-37447fbae476",
+                "name": "SV Roda JC"
+            },
+            {
+                "id": "da5e7625-0efb-456c-b5fb-5c4f68697852",
+                "name": "HFC ADO Den Haag"
+            },
+            {
+                "id": "59e96926-eeea-420b-a76e-82ab99d617ec",
+                "name": "FC Groningen"
+            },
+            {
+                "id": "419885c3-bc0d-4c98-bcbb-b1070a193640",
+                "name": "FC Dordrecht"
+            },
+            {
+                "id": "3866b7b2-f4f2-45b2-9dd2-8cbc1ec56a47",
+                "name": "BV De Graafschap"
+            },
+            {
+                "id": "b0993f3f-a95c-43b6-b792-72746852a53f",
+                "name": "SC Cambuur Leeuwarden"
+            },
+            {
+                "id": "b708cb35-aad6-4949-b252-637c36d4d6c9",
+                "name": "Alkmaar Zaanstreek II"
+            },
+            {
+                "id": "c824c23d-31e8-41fb-ac95-5795a6bd2594",
+                "name": "NAC Breda"
+            },
+            {
+                "id": "89ead0fc-cc37-48e8-8bf6-6262ef274f1c",
+                "name": "VVV Venlo"
+            },
+            {
+                "id": "61688b4c-9c8b-4129-b85b-e81e6b0cde14",
+                "name": "MVV"
+            },
+            {
+                "id": "9e7ce5d8-c959-469b-9ee1-5ddcbd9ed4eb",
+                "name": "Helmond Sport"
+            },
+            {
+                "id": "c025e5a7-aeaf-4dfa-a574-9a369c3e168f",
+                "name": "FC Emmen"
+            },
+            {
+                "id": "eb4c37d4-71c4-4ee1-bb1a-cf94f1ef8c3b",
+                "name": "FC Eindhoven"
+            },
+            {
+                "id": "de6c35b5-214e-4f23-a8c2-6baa4ee1b96c",
+                "name": "AFC Ajax II"
+            },
+            {
+                "id": "bf781226-fdaa-40ec-b9a8-61dc7119516c",
+                "name": "PSV Eindhoven II"
+            },
+            {
+                "id": "73d20817-2c0a-49fd-82b6-2ded6972b19a",
+                "name": "FC Utrecht II"
+            },
+            {
+                "id": "89cb327d-cc81-4abf-aa51-324e94d3a5d7",
+                "name": "FC Den Bosch"
+            },
+            {
+                "id": "9009f5e7-72e3-493f-9c15-ba5b5ef1b4e9",
+                "name": "SC Telstar"
+            },
+            {
+                "id": "ff849d2c-19dc-4807-a4b8-3205dc891e75",
+                "name": "FC Oss"
+            }
+        ]
+    },
+    {
+        "id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "name": "Liga NOS",
+        "country": "Portugal",
+        "primatips_table_url": "https://primatips.com/tables/portugal",
+        "teams": [
+            {
+                "id": "a0b82a66-6819-4eb9-8765-0b209084ac18",
+                "name": "Sporting Clube de Portugal"
+            },
+            {
+                "id": "ebe2cf7e-a422-4fb2-8b31-6dd78ec0036b",
+                "name": "SL Benfica"
+            },
+            {
+                "id": "ca43a54a-5051-4845-973c-cb62ddc69f6d",
+                "name": "FC Porto"
+            },
+            {
+                "id": "a1c479ac-a2dd-442f-afcc-0094bf21363c",
+                "name": "Sporting Braga"
+            },
+            {
+                "id": "18f98811-ca78-407f-ae1a-c4f4fd9c41e3",
+                "name": "Vitória Guimarães SC"
+            },
+            {
+                "id": "fbac086b-1682-43cc-ad8a-c4c421a4e5a1",
+                "name": "Moreirense FC"
+            },
+            {
+                "id": "d75d08f7-7482-44bc-ae9f-857c6adb47d4",
+                "name": "FC Arouca"
+            },
+            {
+                "id": "b7fda900-161e-4b55-a793-9b5e45751a49",
+                "name": "SC Farense"
+            },
+            {
+                "id": "42502abb-b140-4a73-b249-7f535d828d19",
+                "name": "FC Famalicão"
+            },
+            {
+                "id": "d5e394dd-c2eb-44c1-b1fd-85e1d4f62f92",
+                "name": "Gil Vicente FC"
+            },
+            {
+                "id": "d8b974b7-cf2a-4c42-a413-899393d43bb2",
+                "name": "Boavista FC"
+            },
+            {
+                "id": "e1364b1b-d454-4228-be8c-441d506041b1",
+                "name": "Casa Pia AC"
+            },
+            {
+                "id": "42106c7e-bcdc-4710-9d4e-89b8ecca100a",
+                "name": "Portimonense SC"
+            },
+            {
+                "id": "84ea6f6e-97d7-4229-b616-75bd88743159",
+                "name": "GD Estoril Praia"
+            },
+            {
+                "id": "c8582b86-9939-4060-9f2a-1f7dae5c4196",
+                "name": "Rio Ave FC"
+            },
+            {
+                "id": "36ee8757-67b3-426c-a000-06dde181ca22",
+                "name": "Estrela Amadora"
+            },
+            {
+                "id": "34aee742-1aba-49dd-8dff-ff0939792551",
+                "name": "GD Chaves"
+            },
+            {
+                "id": "35e6384d-df9f-4e74-a151-402d97512327",
+                "name": "FC Vizela"
+            }
+        ]
+    },
+    {
+        "id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "name": "LigaPro",
+        "country": "Portugal",
+        "primatips_table_url": "https://primatips.com/tables/portugal/liga-portugal-2",
+        "teams": [
+            {
+                "id": "118a5bb3-3958-4f69-b7fc-11ff0da7fd69",
+                "name": "CD Santa Clara"
+            },
+            {
+                "id": "d5f29bb3-25ab-42dd-979e-8ddd3642f8cd",
+                "name": "AVS Futebol"
+            },
+            {
+                "id": "889e76aa-e8d1-409a-883f-5d7fd6401194",
+                "name": "CD Nacional Funchal"
+            },
+            {
+                "id": "4f013064-81b3-40fa-8cbb-2e0e72d0b807",
+                "name": "CS Marítimo Funchal"
+            },
+            {
+                "id": "f81ee6ba-e6ec-4e44-907c-eb33ad2aa20c",
+                "name": "SC União Torreense"
+            },
+            {
+                "id": "5757a100-3f2f-4d41-b2ec-e4c7878769f9",
+                "name": "Academico de Viseu FC"
+            },
+            {
+                "id": "21e2d174-6683-485f-830a-cebcfc8aed68",
+                "name": "CD Tondela"
+            },
+            {
+                "id": "7dac6f1e-044f-472d-a215-d6a345043780",
+                "name": "CD Mafra"
+            },
+            {
+                "id": "e784cae1-8d19-473a-9fad-e3658413a225",
+                "name": "Porto II"
+            },
+            {
+                "id": "57be14af-4a95-4400-a7d5-b109dbd9df1a",
+                "name": "UD Leiria"
+            },
+            {
+                "id": "b2edf30f-2d42-4e36-8153-f318069d1c61",
+                "name": "FC Paços de Ferreira"
+            },
+            {
+                "id": "56cb2482-2606-4d68-8e9f-ade9ce9fa6d3",
+                "name": "SL Benfica II"
+            },
+            {
+                "id": "c4a076f0-6f72-410e-9d19-d2ae2ccaf8d1",
+                "name": "FC Penafiel"
+            },
+            {
+                "id": "be9234ae-12a6-4601-9bdd-dc8074bd4f51",
+                "name": "CD Feirense"
+            },
+            {
+                "id": "3deb9640-bb23-4bb2-8b7f-eac0cada4838",
+                "name": "UD Oliveirense"
+            },
+            {
+                "id": "f024bef9-9ce3-474e-bb33-90d03999eb81",
+                "name": "Leixões SC"
+            },
+            {
+                "id": "4e79c66d-9a97-499e-bc3b-9e063ed3ac27",
+                "name": "Vilaverdense FC"
+            },
+            {
+                "id": "e6d990e0-edb9-4912-95b3-42134fe710b1",
+                "name": "CF Os Belenenses"
+            }
+        ]
+    },
+    {
+        "id": "711e826b-ed73-46ca-b870-3a7936cbe433",
+        "name": "Bundesliga",
+        "country": "Austria",
+        "primatips_table_url": "https://primatips.com/tables/austria",
+        "teams": [
+            {
+                "id": "a1d824e5-860a-4e85-b0a0-7f8de8571e4d",
+                "name": "FC Salzburg"
+            },
+            {
+                "id": "92f25147-4f8f-4ecd-9dc5-25da303b2076",
+                "name": "SK Sturm Graz"
+            },
+            {
+                "id": "266a7b97-daed-451c-b56b-0a334b5ac752",
+                "name": "LASK Linz"
+            },
+            {
+                "id": "e636d6fd-a5e0-4ab6-a7be-8c0eef3d659b",
+                "name": "TSV Hartberg"
+            },
+            {
+                "id": "a43ed561-37dd-4d54-a4ca-a267f3d9cdae",
+                "name": "SK Austria Klagenfurt"
+            },
+            {
+                "id": "94feb94a-ad0c-4ed4-a3aa-2b892814b53b",
+                "name": "SK Rapid Wien"
+            },
+            {
+                "id": "e49c87d1-9964-48fe-b705-74709f484541",
+                "name": "FK Austria Wien"
+            },
+            {
+                "id": "4143b1ca-f942-4e05-b57c-2a5849345637",
+                "name": "Wolfsberger Athletik Club"
+            },
+            {
+                "id": "89b70623-782d-4f2c-8440-c1681405a0fd",
+                "name": "FC Blau-Weiß Linz"
+            },
+            {
+                "id": "bdf80160-0d3a-444f-8b5c-22655acae680",
+                "name": "SC Rheindorf Altach"
+            },
+            {
+                "id": "8d8836f9-9e46-46b8-b875-f91f3d0e4326",
+                "name": "WSG Swarovski Wattens"
+            },
+            {
+                "id": "820a5fcc-6ac0-4b0c-a6c7-116a7d8a88f2",
+                "name": "SC Austria Lustenau"
+            }
+        ]
+    },
+    {
+        "id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "name": "2. Liga",
+        "country": "Austria",
+        "primatips_table_url": "https://primatips.com/tables/austria/second-league",
+        "teams": [
+            {
+                "id": "28d7af3a-a559-4fc7-ad75-274e8190b1fa",
+                "name": "Liebherr Grazer AK"
+            },
+            {
+                "id": "aaf4e435-ff97-437a-b249-865c5c289f03",
+                "name": "Schwarz-Weiß Bregenz"
+            },
+            {
+                "id": "2091269b-03ac-43af-bc83-c9fe8e9e2a17",
+                "name": "SV Ried"
+            },
+            {
+                "id": "c8aa1912-7401-4ec4-b58c-a6763b33b576",
+                "name": "Floridsdorfer AC"
+            },
+            {
+                "id": "1e8ce53e-529c-4614-9a01-e0b3c03aed9b",
+                "name": "DSV Leoben"
+            },
+            {
+                "id": "e4f0377e-0e0c-410a-b1a6-d1ca4a09db65",
+                "name": "SKN Sankt Pölten"
+            },
+            {
+                "id": "54f65c3a-e291-4eca-a985-5fa8abf670af",
+                "name": "First Vienna FC 1894"
+            },
+            {
+                "id": "41b43d1d-4685-4447-b101-6aa80e47798c",
+                "name": "SV Stripfing Weiden"
+            },
+            {
+                "id": "6c59787f-0b6b-4c6e-b73f-4c0f2d3dee20",
+                "name": "Kapfenberger SV"
+            },
+            {
+                "id": "9d890b96-77bf-47b0-8e3a-411abcd4a3aa",
+                "name": "SV Lafnitz"
+            },
+            {
+                "id": "99ff7f67-6a7a-4639-857f-ab8ab13fac10",
+                "name": "FC Admira Wacker Mödling"
+            },
+            {
+                "id": "5172eb4b-fccc-4d86-a3e4-3686e9ef0b03",
+                "name": "SV Horn"
+            },
+            {
+                "id": "0c7bdfb5-3a5c-440c-bcc5-77d249d022b5",
+                "name": "FC Liefering"
+            },
+            {
+                "id": "38aff286-47a5-430c-b657-0b87072b9906",
+                "name": "SK Sturm Graz II"
+            },
+            {
+                "id": "1f6598da-bc3e-4e56-8beb-ff42e357cd5f",
+                "name": "FC Dornbirn 1913"
+            },
+            {
+                "id": "36681b42-31c1-47df-88a9-ccde15a76b66",
+                "name": "SKU Amstetten"
+            }
+        ]
+    },
+    {
+        "id": "4990867c-5755-4818-afdb-6d5bb06bd75f",
+        "name": "Superliga",
+        "country": "Denmark",
+        "primatips_table_url": "https://primatips.com/tables/denmark",
+        "teams": [
+            {
+                "id": "c4b35c08-2d04-4557-ae6c-06f2c485077a",
+                "name": "Brøndby IF"
+            },
+            {
+                "id": "c57001ab-496a-49e9-8e45-5cc99ca6fc8a",
+                "name": "FC København"
+            },
+            {
+                "id": "5db687e0-8959-4d49-b364-4009df408664",
+                "name": "FC Midtjylland"
+            },
+            {
+                "id": "d17f81ce-7ad2-4926-b32e-8f4539603ea1",
+                "name": "FC Nordsjælland"
+            },
+            {
+                "id": "771ac08d-15b1-4067-9b69-50a891e360e1",
+                "name": "Aarhus Gymnastikforening"
+            },
+            {
+                "id": "8483e4ba-c8f9-4b26-b10e-01939e72b7b5",
+                "name": "Silkeborg IF"
+            },
+            {
+                "id": "9a6983f7-ec2c-4811-8050-faf832606171",
+                "name": "Odense BK"
+            },
+            {
+                "id": "99e18193-35fa-4f08-9c24-525855e2f2e6",
+                "name": "Lyngby Boldklub"
+            },
+            {
+                "id": "89700543-4f16-46a2-b537-2850245b6e03",
+                "name": "Randers FC"
+            },
+            {
+                "id": "9aa097a9-219b-490a-99d0-1c15f6e78ef1",
+                "name": "Viborg FF"
+            },
+            {
+                "id": "6ef79040-f9cc-4d36-af20-9db28d294772",
+                "name": "Vejle Boldklub"
+            },
+            {
+                "id": "d44f6632-009f-4970-882c-d2fc90259d99",
+                "name": "Hvidovre IF"
+            }
+        ]
+    },
+    {
+        "id": "4cc7958c-0828-4024-ba6c-932cc6cd38d0",
+        "name": "1st Division",
+        "country": "Denmark",
+        "primatips_table_url": "https://primatips.com/tables/denmark/1st-division",
+        "teams": [
+            {
+                "id": "7379dce9-3342-4635-a165-f8508ae04dbb",
+                "name": "Sønderjysk Elitesport Fodbold"
+            },
+            {
+                "id": "36b7979b-2c3f-4a13-b8b6-b3879ca666bb",
+                "name": "Aalborg BK"
+            },
+            {
+                "id": "8cb6c123-5214-40ce-99f0-95b6d5aa5d77",
+                "name": "Hobro IK"
+            },
+            {
+                "id": "65848570-b74d-4b5d-83ec-f859316dc3cf",
+                "name": "Vendsyssel FF"
+            },
+            {
+                "id": "8ee66e06-47d2-47ce-a983-594d9dc5af5a",
+                "name": "FC Fredericia"
+            },
+            {
+                "id": "79233e2e-f1e6-454d-aefd-88fcf1fb11e5",
+                "name": "Kolding IF"
+            },
+            {
+                "id": "d71a85c4-c024-4696-93d0-10661372c688",
+                "name": "AC Horsens"
+            },
+            {
+                "id": "808c0c5e-f022-4858-9c74-a92c0f003f51",
+                "name": "Hillerød Fodbold"
+            },
+            {
+                "id": "bb9cf0a2-d61f-40aa-885a-71f100695a0f",
+                "name": "Boldklubben af 1893"
+            },
+            {
+                "id": "ee7aa088-1705-4111-a7f2-f59373edcb2f",
+                "name": "HB Køge"
+            },
+            {
+                "id": "262b9a40-e8b9-4915-ae95-a98a5309eb95",
+                "name": "FC Helsingør"
+            },
+            {
+                "id": "824b62c8-1daa-471c-9fda-19606c7c2708",
+                "name": "Næstved BK"
+            }
+        ]
+    },
+    {
+        "id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "name": "Allsvenskan",
+        "country": "Sweden",
+        "primatips_table_url": "https://primatips.com/tables/sweden",
+        "teams": [
+            {
+                "id": "07372554-7bbc-454e-a410-8707bed4ccf4",
+                "name": "AIK Fotboll"
+            },
+            {
+                "id": "02eefca7-face-42aa-8511-ed92867e3a16",
+                "name": "IF Brommapojkarna"
+            },
+            {
+                "id": "f24b5d76-71a6-4fa8-b22c-144105f17e37",
+                "name": "Djurgårdens IF"
+            },
+            {
+                "id": "c28c1ffa-915f-4706-9838-4f7e2de590ef",
+                "name": "IF Elfsborg"
+            },
+            {
+                "id": "4e0d47b7-a382-48ae-8906-c540a364e9ab",
+                "name": "GAIS"
+            },
+            {
+                "id": "41ba552d-a699-48db-a605-a71742c26282",
+                "name": "Halmstads BK"
+            },
+            {
+                "id": "3ff83920-7ae2-434c-b5db-c430e3236530",
+                "name": "Hammarby IF"
+            },
+            {
+                "id": "9fbae53d-36ae-4c28-84ec-f0116cbc238d",
+                "name": "BK Häcken"
+            },
+            {
+                "id": "c57d0b14-f4db-4c18-8157-952484ab1653",
+                "name": "IFK Göteborg"
+            },
+            {
+                "id": "654aa289-f344-46b5-ba16-34f93aefca77",
+                "name": "Kalmar FF"
+            },
+            {
+                "id": "286c431b-702b-47b0-864f-7c99201c95d0",
+                "name": "Malmö FF"
+            },
+            {
+                "id": "bb88066b-5e43-479d-a08a-8cf81aeb96c2",
+                "name": "Mjällby AIF"
+            },
+            {
+                "id": "d329a456-00e9-4855-a5b9-eef7f99ee59e",
+                "name": "IFK Norrköping"
+            },
+            {
+                "id": "1e822e96-eafb-4d24-8af0-dafd3f2e5e4d",
+                "name": "IK Sirius Fotboll"
+            },
+            {
+                "id": "5db94bce-11f9-4afb-a421-4393d364421c",
+                "name": "IFK Värnamo"
+            },
+            {
+                "id": "05387e16-8910-48dc-9b84-f16c726d6c3e",
+                "name": "Västerås SK Fotboll"
+            }
+        ]
+    },
+    {
+        "id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "name": "Superettan",
+        "country": "Sweden",
+        "primatips_table_url": "https://primatips.com/tables/sweden/superettan",
+        "teams": [
+            {
+                "id": "80ee370f-d6d0-4a91-8614-d8872c25cbc8",
+                "name": "IK Brage"
+            },
+            {
+                "id": "b342c85f-25be-4d12-9af7-f024fce9b23e",
+                "name": "Degerfors IF"
+            },
+            {
+                "id": "4aa3db41-8e04-4141-8377-f76ab29a7764",
+                "name": "Gefle IF"
+            },
+            {
+                "id": "f65c4f3d-8626-40d7-8c52-b9040c397759",
+                "name": "GIF Sundsvall"
+            },
+            {
+                "id": "fa8cce82-3c3f-49fb-8bea-7343158010a6",
+                "name": "Helsingborgs IF"
+            },
+            {
+                "id": "fb476512-3d19-4bbf-af4a-a6473741cec2",
+                "name": "Landskrona BoIS"
+            },
+            {
+                "id": "5f6cf1cb-e42b-416b-b3ca-7419fa312806",
+                "name": "IK Oddevold"
+            },
+            {
+                "id": "54992777-f6aa-4265-a269-aa2f2a347fbd",
+                "name": "Sandvikens IF"
+            },
+            {
+                "id": "a965eab9-446e-4dae-af82-2a0ca8d45d05",
+                "name": "Skövde AIK"
+            },
+            {
+                "id": "1560334c-a538-427f-bc22-f4cc547735b5",
+                "name": "Trelleborgs FF"
+            },
+            {
+                "id": "482f63cb-cb39-40ef-828b-ca41e202a2bc",
+                "name": "Utsikten BK"
+            },
+            {
+                "id": "fed4ecff-4886-4ff9-ab19-516f34614aff",
+                "name": "Varbergs BoIS FC"
+            },
+            {
+                "id": "b0e3897d-b000-4d99-9965-681002e7a219",
+                "name": "Örebro SK"
+            },
+            {
+                "id": "6adac8c3-95e6-4e2a-9ae6-bfc51d9c3367",
+                "name": "Örgryte IS"
+            },
+            {
+                "id": "afdd98e5-af5a-47a5-8f68-088c136358d8",
+                "name": "Östers IF"
+            },
+            {
+                "id": "87e58c2a-359e-4296-a27a-aca064bf7e0d",
+                "name": "Östersunds FK"
+            }
+        ]
+    },
+    {
+        "id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "name": "Eliteserien",
+        "country": "Norway",
+        "primatips_table_url": "https://primatips.com/tables/norway",
+        "teams": [
+            {
+                "id": "1656440a-ac43-417a-9c2f-bb40f37b1f73",
+                "name": "SK Brann"
+            },
+            {
+                "id": "b3f3cb30-e95e-442f-a043-cc05bfb78c5c",
+                "name": "FK Bodo - Glimt"
+            },
+            {
+                "id": "b455152d-e93e-49ce-a510-b9de2ac3dbd4",
+                "name": "Fredrikstad FK"
+            },
+            {
+                "id": "95b8d934-f93c-4504-95cc-2fa23000e725",
+                "name": "Hamarkameratene Fotball"
+            },
+            {
+                "id": "841913a1-74a4-4c6a-8fd1-b18a2adbdc8a",
+                "name": "FK Haugesund"
+            },
+            {
+                "id": "1c873c18-cb3d-4dfc-8611-2b31bdbeb616",
+                "name": "KFUM Fotball"
+            },
+            {
+                "id": "664f9936-a58e-48a0-8734-a07ac2f59cac",
+                "name": "Kristiansund BK"
+            },
+            {
+                "id": "159a9153-7bc0-493a-ab8a-7da3ea7f3c6c",
+                "name": "Lillestrøm SK"
+            },
+            {
+                "id": "9cd40e18-ffad-4ce8-8dbb-fe25f373e944",
+                "name": "Molde FK"
+            },
+            {
+                "id": "8138b5ea-3fa4-49b4-b911-d6ec43a8d86f",
+                "name": "Odds BK"
+            },
+            {
+                "id": "af2dda17-21ea-4c75-9308-3dc0ad1916a7",
+                "name": "Rosenborg BK"
+            },
+            {
+                "id": "6fb60140-315f-49c0-b8e2-54397b697537",
+                "name": "Sandefjord Fotball"
+            },
+            {
+                "id": "4b2cb1c8-1d9d-4b38-95d9-283759ef54a9",
+                "name": "Sarpsborg 08 FF"
+            },
+            {
+                "id": "1aec3b44-3615-46a4-9759-9f797b327e67",
+                "name": "Strømsgodset IF"
+            },
+            {
+                "id": "bc13e9ca-621d-4d79-b391-ddfda7809ddd",
+                "name": "Tromsø IL"
+            },
+            {
+                "id": "7e6069b5-e005-473e-af35-9906383556bc",
+                "name": "Viking FK"
+            }
+        ]
+    },
+    {
+        "id": "45345583-2b96-4090-9031-a37066f09c89",
+        "name": "First League",
+        "country": "Czech Republic",
+        "primatips_table_url": "https://primatips.com/tables/czech-republic",
+        "teams": [
+            {
+                "id": "83a140b4-6537-4911-8a71-9c096eeddafc",
+                "name": "AC Sparta Praha"
+            },
+            {
+                "id": "d586420c-f69e-430b-9b31-ded431ea71a1",
+                "name": "SK Slavia Praha"
+            },
+            {
+                "id": "9fe454b5-36bc-4746-a673-73463f146979",
+                "name": "FC Viktoria Plzeň"
+            },
+            {
+                "id": "207f913b-cc12-4455-a394-15509e6fdca8",
+                "name": "1. FC Slovácko"
+            },
+            {
+                "id": "e621585c-d365-4a59-8c17-1713d50fb43b",
+                "name": "FC Banik Ostrava"
+            },
+            {
+                "id": "5e5fee28-16a9-4c29-89c0-9e79d0b03ad5",
+                "name": "SK Sigma Olomouc"
+            },
+            {
+                "id": "983a627d-94c2-4cf0-b4f8-4f347bd10673",
+                "name": "FC Slovan Liberec"
+            },
+            {
+                "id": "d874ac78-39bd-4f11-9676-f64db8fb9d2a",
+                "name": "FK Mladá Boleslav"
+            },
+            {
+                "id": "4e6f46b7-fe55-46d0-b055-0bb5e3b8c8e7",
+                "name": "FK Teplice"
+            },
+            {
+                "id": "35b33e40-c38c-4b6b-b5c0-dfa6bead2d86",
+                "name": "Bohemians 1905"
+            },
+            {
+                "id": "9b4c4016-cd44-4bdb-9850-3f4be4bdf1b4",
+                "name": "FK Pardubice"
+            },
+            {
+                "id": "bcbb7203-ef10-4e85-a2d7-3da9157b346f",
+                "name": "FK Jablonec"
+            },
+            {
+                "id": "74b02017-479b-47ab-b2ce-02a887384334",
+                "name": "FC Hradec Králové"
+            },
+            {
+                "id": "b8969c08-d404-4f48-92de-840800f57b67",
+                "name": "FC FASTAV Zlín"
+            },
+            {
+                "id": "20ccf0d6-6d44-41c8-975f-315bf9b58736",
+                "name": "MFK Karviná"
+            },
+            {
+                "id": "f9613a68-487d-4868-8a79-4966abd6be45",
+                "name": "SK Dynamo České Budějovice"
+            }
+        ]
+    },
+    {
+        "id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "name": "FNL",
+        "country": "Czech Republic",
+        "primatips_table_url": "https://primatips.com/tables/czech-republic/national-league",
+        "teams": [
+            {
+                "id": "b492314c-e35f-46fd-99e9-14a0d135c94f",
+                "name": "MFK Vyškov"
+            },
+            {
+                "id": "8a2f8922-8066-4005-b1b7-75b9f3174de3",
+                "name": "FK Dukla Praha"
+            },
+            {
+                "id": "cbc662be-cb17-4904-8ed3-3eca2e708a77",
+                "name": "FK MAS Táborsko"
+            },
+            {
+                "id": "4198986f-733f-4ff1-8cd4-1503f6a5fb06",
+                "name": "1.FK Příbram"
+            },
+            {
+                "id": "ab11c8cb-7c89-4eab-a961-7efc3ebbc237",
+                "name": "FC Vysočina Jihlava"
+            },
+            {
+                "id": "00b9df8c-e3b4-4014-afe9-d7bf43bca6d5",
+                "name": "FC Zbrojovka Brno"
+            },
+            {
+                "id": "fc81492a-6699-481f-96ab-ff1758d24662",
+                "name": "MFK Chrudim"
+            },
+            {
+                "id": "f1e174ef-fe85-4808-93ad-211d0cb79308",
+                "name": "FC Sellier & Bellot Vlašim"
+            },
+            {
+                "id": "e9b0e815-6c58-410c-8236-5f22b44cb7fc",
+                "name": "SFC Opava"
+            },
+            {
+                "id": "b467f655-44a0-402f-bca7-c7b7a5ee0e4f",
+                "name": "SK Líšeň"
+            },
+            {
+                "id": "5f9557f8-9165-4981-8475-1d1e8980de0c",
+                "name": "SK Sigma Olomouc II"
+            },
+            {
+                "id": "79257c80-3437-434c-a370-afc8678f8770",
+                "name": "AC Sparta Praha II"
+            },
+            {
+                "id": "98bffb2c-53f1-4330-9d36-7b168cdbd9dd",
+                "name": "Hanácká"
+            },
+            {
+                "id": "05e60885-40c8-4281-bb25-ea7211e47bb3",
+                "name": "FK Varnsdorf"
+            },
+            {
+                "id": "ac841e66-a90d-4138-b5e6-9ca44998cc1f",
+                "name": "FK Viktoria Žižkov"
+            },
+            {
+                "id": "6d4930ac-3d5f-4144-a192-586279da71f7",
+                "name": "FK Prostějov"
+            }
+        ]
+    },
+    {
+        "id": "f06868d1-7a9e-4462-9cbb-84e9f1143d07",
+        "name": "Super League",
+        "country": "Switzerland",
+        "primatips_table_url": "https://primatips.com/tables/switzerland",
+        "teams": [
+            {
+                "id": "076e82e3-a206-43ff-8407-3d43fa461843",
+                "name": "BSC Young Boys"
+            },
+            {
+                "id": "2f641d94-0f6e-435a-afee-b04e3459bc95",
+                "name": "Servette FC"
+            },
+            {
+                "id": "cf19881e-3abb-475a-a5c4-edfb4035e0d3",
+                "name": "FC Zürich"
+            },
+            {
+                "id": "bbd74bc0-ab3f-479b-bb7f-757ba4941c0e",
+                "name": "FC Sankt Gallen 1879"
+            },
+            {
+                "id": "ba5d94dd-cb18-4849-80e8-d0bd65bbc696",
+                "name": "FC Lugano"
+            },
+            {
+                "id": "3d87a845-21d4-410a-8552-b711a0627378",
+                "name": "FC Luzern"
+            },
+            {
+                "id": "a53e8052-d7ef-43c6-a18a-b80326cdb73e",
+                "name": "FC Winterthur"
+            },
+            {
+                "id": "6f60f33e-1c8d-4e91-bc19-442d61cee823",
+                "name": "Yverdon Sport FC"
+            },
+            {
+                "id": "6243dc4e-6e7e-4c61-a212-492c1cb25a63",
+                "name": "Grasshopper Club Zürich"
+            },
+            {
+                "id": "2fd5d280-8cab-479f-b7aa-10899cb322a5",
+                "name": "FC Basel 1893"
+            },
+            {
+                "id": "f67dce0c-a6af-4ed1-b54d-ae120850855b",
+                "name": "FC Lausanne Sport"
+            },
+            {
+                "id": "ae988041-d685-4c4f-bab9-eaf9a1d53f05",
+                "name": "FC Stade Lausanne-Ouchy"
+            }
+        ]
+    },
+    {
+        "id": "9880c681-ee44-4f08-b423-0e08ff4e04e4",
+        "name": "Pro League",
+        "country": "Belgium",
+        "primatips_table_url": "https://primatips.com/tables/belgium",
+        "teams": [
+            {
+                "id": "ccfb0ee8-4db2-4414-9f14-15233acf0657",
+                "name": "Royal Union Saint-Gilloise"
+            },
+            {
+                "id": "92487a85-a9bf-4dc1-85e3-85a665e6d0c4",
+                "name": "RSC Anderlecht"
+            },
+            {
+                "id": "cb525461-693f-47ae-b70d-db6f51c4cdc0",
+                "name": "Club Brugge KV"
+            },
+            {
+                "id": "52af80aa-8af7-4b73-964a-fdfde753df55",
+                "name": "Royal Antwerp FC"
+            },
+            {
+                "id": "fa253a08-eb12-4d11-b2e9-b342cafc983d",
+                "name": "KAA Gent"
+            },
+            {
+                "id": "dddf0056-9c25-46a8-9a04-021a29ee2d7d",
+                "name": "KRC Genk"
+            },
+            {
+                "id": "2d4375a4-e7a0-4e31-9eb6-6089845d0204",
+                "name": "Cercle Brugge KSV"
+            },
+            {
+                "id": "5a496168-0ea2-4f60-9b43-43fd36eefb62",
+                "name": "YR KV Mechelen"
+            },
+            {
+                "id": "414aa6cb-9d51-4acb-8935-8356d8178e85",
+                "name": "Sint-Truidense VV"
+            },
+            {
+                "id": "5344858f-0058-4ebd-a818-f6e4666900c8",
+                "name": "KVC Westerlo"
+            },
+            {
+                "id": "2f3aaddf-793e-4ddc-b91b-43e36cb9ef84",
+                "name": "Royal Standard de Liège"
+            },
+            {
+                "id": "6813d2fb-689b-4485-bb87-60866c01cfcb",
+                "name": "Oud-Heverlee Leuven"
+            },
+            {
+                "id": "e93f168a-7f8d-477d-af34-bcd3ac7cf947",
+                "name": "Sporting du Pays de Charleroi"
+            },
+            {
+                "id": "ff107291-2680-47e6-b065-e9ad3aaf8df1",
+                "name": "RWDM"
+            },
+            {
+                "id": "0726d148-1727-41dc-a2e3-797dfed8c3c7",
+                "name": "KAS Eupen"
+            },
+            {
+                "id": "52602711-b8a0-4f82-8107-725d8df77d38",
+                "name": "KV Kortrijk"
+            }
+        ]
+    },
+    {
+        "id": "f33944b2-7fe3-454e-9b25-9b9807be84ec",
+        "name": "First Division B",
+        "country": "Belgium",
+        "primatips_table_url": "https://primatips.com/tables/belgium/challenger-pro-league",
+        "teams": [
+            {
+                "id": "036b01bf-66c8-4199-8d5b-f7bc4d2d94eb",
+                "name": "KFCO Beerschot-Wilrijk"
+            },
+            {
+                "id": "e08c2eff-8611-4ceb-b802-e78e90148485",
+                "name": "KMSK Deinze"
+            },
+            {
+                "id": "4113718b-8aa2-450d-b916-b6143bb30373",
+                "name": "SV Zulte-Waregem"
+            },
+            {
+                "id": "3931dbce-401c-4fb8-a5cc-b1586e7b0f3c",
+                "name": "Lommel United"
+            },
+            {
+                "id": "786d9f22-5ac3-4519-aaf1-5106368fd695",
+                "name": "FCV Dender EH"
+            },
+            {
+                "id": "c50430ae-2d3d-42d9-9538-41d97a65c1f0",
+                "name": "Patro Eisden Maasmechelen"
+            },
+            {
+                "id": "3fed48ea-3779-4608-a7c2-c7f6285ef1a4",
+                "name": "Waasland-Beveren"
+            },
+            {
+                "id": "02f6886e-0d89-4239-9e61-bf70b2be1fe5",
+                "name": "RFC de Liege"
+            },
+            {
+                "id": "77e0d581-4455-4f6d-b8dc-26b9d76da444",
+                "name": "RSC Anderlecht Futures"
+            },
+            {
+                "id": "9c548742-a336-4fac-84ce-02df41488d41",
+                "name": "Jong KRC Genk"
+            },
+            {
+                "id": "45e7472c-ed5f-42d0-925b-84307259bdc0",
+                "name": "KV Oostende"
+            },
+            {
+                "id": "8b46bf89-7827-461c-b7d9-57feaae145b6",
+                "name": "Club Brugge KV II"
+            },
+            {
+                "id": "86a64fbf-b88d-4091-8c9d-182c2ce575e6",
+                "name": "Royal Francs Borains"
+            },
+            {
+                "id": "b8ef387e-24e7-4610-b539-3d5be989443a",
+                "name": "KSK Lierse Kempenzonen"
+            },
+            {
+                "id": "e21b536f-af42-46ab-b7b9-8237d6142234",
+                "name": "RFC Seraing"
+            },
+            {
+                "id": "c8084431-850c-4a7f-b665-43b373659460",
+                "name": "SL16 FC"
+            }
+        ]
+    },
+    {
+        "id": "c9a7ed11-dcd4-4183-8859-2d9fce04eba5",
+        "name": "Premiership",
+        "country": "Scotland",
+        "primatips_table_url": "https://primatips.com/tables/scotland",
+        "teams": [
+            {
+                "id": "90938129-9da9-4955-addc-5393efa7963b",
+                "name": "Rangers FC"
+            },
+            {
+                "id": "4b54c6ba-735d-4c8f-a650-c961fb9949c9",
+                "name": "Celtic FC"
+            },
+            {
+                "id": "5e855acc-6785-4bd7-8988-7b1fa2fa644f",
+                "name": "Heart of Midlothian FC"
+            },
+            {
+                "id": "da5b3198-b79a-4fdc-85a1-130ad0201171",
+                "name": "Kilmarnock FC"
+            },
+            {
+                "id": "476f4b17-0002-4305-a44e-382227fc8236",
+                "name": "Saint Mirren FC"
+            },
+            {
+                "id": "3a829aa3-c1a0-46c9-8f4a-d3fc68f8aa94",
+                "name": "Dundee FC"
+            },
+            {
+                "id": "dbddf455-75fc-4675-a4b8-196539381274",
+                "name": "Aberdeen FC"
+            },
+            {
+                "id": "f88b20d7-c618-4f17-a0a9-fb2e65eccf83",
+                "name": "Hibernian FC"
+            },
+            {
+                "id": "3f5b1095-c37e-4e3d-954c-d9f0d142967c",
+                "name": "Motherwell FC"
+            },
+            {
+                "id": "e58e2b06-710f-4881-9ba4-8f09119377a1",
+                "name": "Saint Johnstone FC"
+            },
+            {
+                "id": "6aaa67b2-7c96-4818-878e-5e8b03576f52",
+                "name": "Ross County FC"
+            },
+            {
+                "id": "c58ac32d-81dd-4ea9-905c-4dd0f202802d",
+                "name": "Livingston FC"
+            }
+        ]
+    },
+    {
+        "id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "name": "Championship",
+        "country": "Scotland",
+        "primatips_table_url": "https://primatips.com/tables/scotland/championship",
+        "teams": [
+            {
+                "id": "1332585b-1acc-40dc-82c2-c05b374f1123",
+                "name": "Dundee United FC"
+            },
+            {
+                "id": "e7d7605c-d1e3-432f-a2b4-8c023ef82c09",
+                "name": "Raith Rovers FC"
+            },
+            {
+                "id": "10dd7818-0a8b-48b4-972e-22bda9dadc5d",
+                "name": "Partick Thistle FC"
+            },
+            {
+                "id": "67506232-c603-4d49-836b-8b240ae5dd73",
+                "name": "Greenock Morton FC"
+            },
+            {
+                "id": "4206596f-927c-478a-a2d1-cfa8208bfc04",
+                "name": "Ayr United FC"
+            },
+            {
+                "id": "739f4441-5e0b-4ae9-b06a-651056f0f106",
+                "name": "Airdrieonians FC"
+            },
+            {
+                "id": "f39f37d6-4d96-4b19-bd97-6074fbc43a04",
+                "name": "Queen's Park FC"
+            },
+            {
+                "id": "a27c964f-21b7-4619-a94a-cc55092a1492",
+                "name": "Inverness CT"
+            },
+            {
+                "id": "c07ad629-a2eb-46ae-92c5-7c0d06837362",
+                "name": "Dunfermline Athletic FC"
+            },
+            {
+                "id": "21dd1328-4720-47c0-a389-df2e47785661",
+                "name": "Arbroath FC"
+            }
+        ]
+    },
+    {
+        "id": "2417eea7-695e-4432-bf11-aa4fb70ee7a4",
+        "name": "First Division",
+        "country": "Cyprus",
+        "primatips_table_url": "https://primatips.com/tables/cyprus",
+        "teams": [
+            {
+                "id": "513379e4-edaa-4b61-b2cb-e68114bd81de",
+                "name": "APOEL FC"
+            },
+            {
+                "id": "444b9929-736c-4efa-8733-fdab5e346d7c",
+                "name": "Aris FC Limassol"
+            },
+            {
+                "id": "b1deb429-3849-4fa6-91aa-09bb30749367",
+                "name": "AEK Larnaca"
+            },
+            {
+                "id": "1a4941e7-c91e-47ab-bba0-95f5a0b8997a",
+                "name": "Paphos FC"
+            },
+            {
+                "id": "cd48fdd3-a985-4192-a5fa-a92f3cf9f43a",
+                "name": "AC Omonia Nicosia"
+            },
+            {
+                "id": "1817cd13-94dd-4d14-9211-e46ecd6650b7",
+                "name": "Anorthosis Famagusta FC"
+            },
+            {
+                "id": "16a9eb3c-46ee-49b9-8646-a04ad7dceaaa",
+                "name": "Apollon Limassol"
+            },
+            {
+                "id": "f23194b9-0ebc-45e5-98ee-5810c5a21986",
+                "name": "Nea Salamis Famagusta"
+            },
+            {
+                "id": "b2cd5415-c610-421c-9361-c16f985c2520",
+                "name": "AEL Limassol"
+            },
+            {
+                "id": "6be53de8-ceaf-466b-a7de-a660c440df9e",
+                "name": "Ethnikos Achna FC"
+            },
+            {
+                "id": "b5091a45-3559-4fba-931c-b852525bd9b4",
+                "name": "Karmiotissa Pano Polemidia"
+            },
+            {
+                "id": "0382c689-eb18-4789-aeff-0863768ffa6c",
+                "name": "AE Zakakiou"
+            },
+            {
+                "id": "b224f5f3-fe65-48a0-a5ae-a0b625e67da3",
+                "name": "AS Othellos Athienou"
+            },
+            {
+                "id": "f57d28d8-712e-48b4-9db8-d1d3395bf713",
+                "name": "Doxa Katokopia FC"
+            }
+        ]
+    },
+    {
+        "id": "ece70344-ef19-44a5-8154-5832d33f045b",
+        "name": "Super League",
+        "country": "Greece",
+        "primatips_table_url": "https://primatips.com/tables/greece",
+        "teams": [
+            {
+                "id": "e738b708-a26d-4795-9c70-19c08a723637",
+                "name": "AEK Athens FC"
+            },
+            {
+                "id": "8929a4d5-96a4-4453-90eb-953cfa4bcf04",
+                "name": "Panathinaikos FC"
+            },
+            {
+                "id": "1503300c-6798-471b-90a6-02905eece5ee",
+                "name": "PAOK Thessaloniki FC"
+            },
+            {
+                "id": "f4fe0c57-d531-4dba-bc65-68ca8f17efa3",
+                "name": "Olympiakos CFP"
+            },
+            {
+                "id": "334e8a88-c9ba-43d6-a396-2c424cb757c8",
+                "name": "Aris Thessaloniki FC"
+            },
+            {
+                "id": "40cc8dc1-8694-40e3-80b6-dcdb5eee6bd0",
+                "name": "PAS Lamia 1964"
+            },
+            {
+                "id": "b4f050b6-76b3-4c04-986d-8c515bbc09c0",
+                "name": "Asteras Tripolis FC"
+            },
+            {
+                "id": "619f3398-9bc1-4295-9627-96dda7cbdc3b",
+                "name": "OFI FC"
+            },
+            {
+                "id": "d22e2ac9-aeef-452c-a4fb-e218fef6dbfb",
+                "name": "Panserraikos FC"
+            },
+            {
+                "id": "584a8afb-7047-45a9-9af8-37c1a8749ae6",
+                "name": "PAE APS Atromitos Athens"
+            },
+            {
+                "id": "e8095cfd-3c4c-4a2a-bee8-741650f47b24",
+                "name": "Panaitolikos GFS Agrinio"
+            },
+            {
+                "id": "8df08f1a-87b4-4243-b1d5-8c0cd493087b",
+                "name": "Volos New Football Club"
+            },
+            {
+                "id": "8f68912d-2d5c-48f8-b040-a73b3ab040b6",
+                "name": "PAS Giannina FC"
+            },
+            {
+                "id": "7e9883d6-b6d6-439c-acb1-20a27e25e67b",
+                "name": "Kifisias FC"
+            }
+        ]
+    },
+    {
+        "id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "name": "Süper Lig",
+        "country": "Turkey",
+        "primatips_table_url": "https://primatips.com/tables/turkiye",
+        "teams": [
+            {
+                "id": "67c43ce9-09a7-4099-a8ab-20fd4b1f12c6",
+                "name": "Galatasaray"
+            },
+            {
+                "id": "caa4f4d3-dbc0-4ae6-8147-1191e598f73d",
+                "name": "Fenerbahçe"
+            },
+            {
+                "id": "adb5dbc1-e9ea-4cb8-af45-58776e10f482",
+                "name": "Trabzonspor"
+            },
+            {
+                "id": "516091a5-875d-4380-9ebe-e23898405abc",
+                "name": "Beşiktaş"
+            },
+            {
+                "id": "f1e19c86-ea19-4f68-9df2-b66086a055d8",
+                "name": "Kasimpasa"
+            },
+            {
+                "id": "50402918-71fe-4d15-b82a-3d3d50e05a17",
+                "name": "Çaykur Rizespor"
+            },
+            {
+                "id": "a97a1928-58af-4f36-84fa-52753393e027",
+                "name": "Antalyaspor"
+            },
+            {
+                "id": "d0a01ec3-e8e6-4ade-a49f-431fec2c27b9",
+                "name": "Sivasspor"
+            },
+            {
+                "id": "29d66bae-5d57-4653-8508-1a07770326a0",
+                "name": "İstanbul Başakşehir FK"
+            },
+            {
+                "id": "98677edc-4eb3-478d-a646-5432b23d19a7",
+                "name": "Adana Demirspor"
+            },
+            {
+                "id": "1c4f1d0a-acb4-4884-96cb-bbfa740a7295",
+                "name": "Kayserispor"
+            },
+            {
+                "id": "becfe7d0-3e30-412b-91e8-b743c33aa17e",
+                "name": "Samsunspor"
+            },
+            {
+                "id": "a0123ddd-4e8b-4aca-9d23-e8d8ef38a253",
+                "name": "MKE Ankaragücü"
+            },
+            {
+                "id": "e45176f5-8fe1-4138-9d5c-75b30bc00929",
+                "name": "Hatay Spor Kulübü"
+            },
+            {
+                "id": "73a326af-ad67-4a00-b5de-9e84cd50b826",
+                "name": "Alanyaspor"
+            },
+            {
+                "id": "4e5b81f3-de44-4e30-8963-b379d5273570",
+                "name": "Fatih Karagümrük"
+            },
+            {
+                "id": "21d0ec2b-33c9-44e0-9e7d-12044b2698b7",
+                "name": "Gazişehir Gaziantep FK"
+            },
+            {
+                "id": "55a5c5ef-3bbd-466e-89fa-7dcd55505f20",
+                "name": "Pendik Spor Kulübü"
+            },
+            {
+                "id": "384ed511-0326-4e13-907c-c4042526666e",
+                "name": "Konyaspor"
+            },
+            {
+                "id": "e2c72627-e5fc-478e-a92c-00dd39cd5f4b",
+                "name": "İstanbulspor AŞ"
+            }
+        ]
+    },
+    {
+        "id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "name": "Premier League",
+        "country": "England",
+        "primatips_table_url": "https://primatips.com/tables/england",
+        "teams": [
+            {
+                "id": "625ba175-076f-49b6-84f3-eadda1c30144",
+                "name": "Liverpool FC"
+            },
+            {
+                "id": "3df3e21f-6a4d-4799-97eb-1f90bb323767",
+                "name": "Manchester City FC"
+            },
+            {
+                "id": "ddb69c2d-721a-4423-b8b9-452f5ccb478d",
+                "name": "Arsenal FC"
+            },
+            {
+                "id": "ecfcd082-b9f1-4bc3-a95f-02cf5dbfd41e",
+                "name": "Aston Villa FC"
+            },
+            {
+                "id": "f9cf5a8e-78db-495e-a56b-135201de17d7",
+                "name": "Tottenham Hotspur FC"
+            },
+            {
+                "id": "bba267cd-8284-4ca3-800f-1067094e173d",
+                "name": "Manchester United FC"
+            },
+            {
+                "id": "b3809ec4-3c50-41de-a426-3a2671250e25",
+                "name": "Brighton & Hove Albion FC"
+            },
+            {
+                "id": "58062845-1e2b-4582-b450-0f4ccb986cbd",
+                "name": "Newcastle United FC"
+            },
+            {
+                "id": "db487ea2-5242-4616-b45d-fa775c685de6",
+                "name": "West Ham United FC"
+            },
+            {
+                "id": "0a4edd72-5a1e-4fae-974b-a03ae98bacaf",
+                "name": "Chelsea FC"
+            },
+            {
+                "id": "2d113388-ab72-4527-b5ac-36456f64c449",
+                "name": "Wolverhampton Wanderers FC"
+            },
+            {
+                "id": "f96391b4-f12a-46b8-a8f3-88bbb511d13b",
+                "name": "Fulham FC"
+            },
+            {
+                "id": "ae53e4aa-c037-4fef-a656-147ff0d1be3b",
+                "name": "AFC Bournemouth"
+            },
+            {
+                "id": "ff8fe512-ea38-4438-a408-a9d9df255c14",
+                "name": "Brentford FC"
+            },
+            {
+                "id": "02e07ea5-da05-4ed5-9681-e72262b590b1",
+                "name": "Crystal Palace FC"
+            },
+            {
+                "id": "a88a482e-2969-4cc1-a1bc-40c3672e9898",
+                "name": "Nottingham Forest FC"
+            },
+            {
+                "id": "4fc67b8f-e68e-4d48-8eda-69a5986b5983",
+                "name": "Everton FC"
+            },
+            {
+                "id": "b6905fab-0d0b-491e-a639-a3227f227a16",
+                "name": "Luton Town FC"
+            },
+            {
+                "id": "754366f2-8a0f-4368-9be4-6969eb5f3c14",
+                "name": "Burnley FC"
+            },
+            {
+                "id": "1e73fb84-57b2-475c-937c-176114ed54ce",
+                "name": "Sheffield United FC"
+            }
+        ]
+    },
+    {
+        "id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "name": "EFL League One",
+        "country": "England",
+        "primatips_table_url": "https://primatips.com/tables/england/league-one",
+        "teams": [
+            {
+                "id": "929bf2be-1c37-475f-961c-cf4c40dcaf5e",
+                "name": "Portsmouth FC"
+            },
+            {
+                "id": "dd6f20a8-01fb-43fa-8e70-8c6e59a6d005",
+                "name": "Derby County FC"
+            },
+            {
+                "id": "0c55eeea-a436-4a97-a389-e0d1dc42875f",
+                "name": "Bolton Wanderers FC"
+            },
+            {
+                "id": "f55dddfb-9e41-4f22-bde5-12fb50e7598b",
+                "name": "Barnsley FC"
+            },
+            {
+                "id": "49dd618f-7222-476b-9e51-38aea089c22d",
+                "name": "Oxford United FC"
+            },
+            {
+                "id": "963d3171-5f8f-447a-b6a3-204a41552c5d",
+                "name": "Peterborough United FC"
+            },
+            {
+                "id": "9af0b58e-7b6b-4a02-8732-4fba1edaa550",
+                "name": "Stevenage FC"
+            },
+            {
+                "id": "c55ead7b-f16d-4863-874c-9544a5747954",
+                "name": "Blackpool FC"
+            },
+            {
+                "id": "22e656de-e06d-45d1-b53d-20979614bfc1",
+                "name": "Leyton Orient FC"
+            },
+            {
+                "id": "7ae0ede4-1450-4b11-9082-f01457203d4e",
+                "name": "Lincoln City FC"
+            },
+            {
+                "id": "0b3d0808-b7e2-4d6a-a928-1d5e39970d88",
+                "name": "Northampton Town FC"
+            },
+            {
+                "id": "63920e33-5330-422d-967c-7319f45595eb",
+                "name": "Bristol Rovers FC"
+            },
+            {
+                "id": "662636ba-12c9-4546-a27b-6f46c4b6a72a",
+                "name": "Reading FC"
+            },
+            {
+                "id": "f818504e-e7c9-4118-957b-e406ddfac49b",
+                "name": "Wigan Athletic FC"
+            },
+            {
+                "id": "dba65cc5-448d-4ee4-8e7a-31d1d0868fe3",
+                "name": "Exeter City FC"
+            },
+            {
+                "id": "de76c69a-8376-4dfd-9180-c21936d6e65b",
+                "name": "Wycombe Wanderers FC"
+            },
+            {
+                "id": "154538ad-ab5d-4bfc-8a9c-1aac2aff3ec2",
+                "name": "Cambridge United FC"
+            },
+            {
+                "id": "9f533743-e5b2-47c0-a8e9-c497dbc2652e",
+                "name": "Burton Albion FC"
+            },
+            {
+                "id": "5fe0f4cc-bd29-45fe-8bc8-ddff2adf2fa9",
+                "name": "Shrewsbury Town FC"
+            },
+            {
+                "id": "466e3c26-88c6-4601-bf28-f35c79b103f5",
+                "name": "Charlton Athletic FC"
+            },
+            {
+                "id": "a3c66b08-799e-4f62-bc7f-a2d086190177",
+                "name": "Cheltenham Town FC"
+            },
+            {
+                "id": "a0c1c60b-aee4-4719-a3bd-49ade544e927",
+                "name": "Port Vale FC"
+            },
+            {
+                "id": "e7b3458f-5d5c-46c4-92f1-3ff946e5d216",
+                "name": "Fleetwood Town FC"
+            },
+            {
+                "id": "706c1531-06ea-4185-9ee0-b401ba9639b0",
+                "name": "Carlisle United FC"
+            }
+        ]
+    },
+    {
+        "id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "name": "EFL League Two",
+        "country": "England",
+        "primatips_table_url": "https://primatips.com/tables/england/league-two",
+        "teams": [
+            {
+                "id": "e1de4893-099f-417d-8d9d-1d13cfc601d6",
+                "name": "Stockport County FC"
+            },
+            {
+                "id": "c9fdfc06-a29a-4260-a54b-efe496cab2eb",
+                "name": "Mansfield Town FC"
+            },
+            {
+                "id": "32f73786-0379-43c8-bda6-dea57d5c2744",
+                "name": "Wrexham FC"
+            },
+            {
+                "id": "45db25de-bea5-4bc1-8d0d-220665ca8ad3",
+                "name": "Crewe Alexandra FC"
+            },
+            {
+                "id": "526b711c-c6ed-44f3-a294-9f5986cffc4d",
+                "name": "Milton Keynes Dons FC"
+            },
+            {
+                "id": "2ab26b59-787e-4349-9011-d9468ac976ba",
+                "name": "Barrow AFC"
+            },
+            {
+                "id": "86a0e659-1fea-4bee-ac54-48df04b0d1bf",
+                "name": "Harrogate Town FC"
+            },
+            {
+                "id": "911de780-14ac-4e77-ae5e-4d5a38d8dfce",
+                "name": "Gillingham FC"
+            },
+            {
+                "id": "924630be-f546-47c9-82c8-02bf736787fb",
+                "name": "AFC Wimbledon"
+            },
+            {
+                "id": "133ad48c-9335-4d66-9c7c-3754b0ab0840",
+                "name": "Notts County FC"
+            },
+            {
+                "id": "15702e06-495c-4290-981c-11094c6a6783",
+                "name": "Morecambe FC"
+            },
+            {
+                "id": "8222ce82-4414-4369-abae-3a46d618cece",
+                "name": "Accrington Stanley FC"
+            },
+            {
+                "id": "96c364dd-2d03-4080-b732-d7b2130d6d57",
+                "name": "Bradford City AFC"
+            },
+            {
+                "id": "8d7c10f6-ef1d-4d13-871b-7f76c879d8d3",
+                "name": "Crawley Town FC"
+            },
+            {
+                "id": "adaf6b28-1fa7-4be6-8673-7d188bb9de7d",
+                "name": "Newport County AFC"
+            },
+            {
+                "id": "854c9e26-29cf-485f-9758-4e2e28288718",
+                "name": "Walsall FC"
+            },
+            {
+                "id": "708c08de-84e1-4b37-8c33-c8f9acedd795",
+                "name": "Tranmere Rovers FC"
+            },
+            {
+                "id": "0d13ffd9-f8b9-40bb-89bc-b6b5f7b2167e",
+                "name": "Swindon Town FC"
+            },
+            {
+                "id": "296b7733-96a8-452f-8766-8aa7122f1de1",
+                "name": "Salford City FC"
+            },
+            {
+                "id": "655a1ae3-f9ca-4ce7-b3ab-12448fdbe03b",
+                "name": "Doncaster Rovers FC"
+            },
+            {
+                "id": "f090752a-f7f6-4c8c-b176-40c4bc874d4c",
+                "name": "Colchester United FC"
+            },
+            {
+                "id": "b77d864e-7e5e-4aa2-9f83-d96b3afe48c6",
+                "name": "Grimsby Town FC"
+            },
+            {
+                "id": "f1e97b24-e022-4568-8d3d-2e3510b54bf8",
+                "name": "Forest Green Rovers FC"
+            },
+            {
+                "id": "7d6be22e-4c06-4d7b-b5aa-76b4cbae0c63",
+                "name": "Sutton United FC"
+            }
+        ]
+    },
+    {
+        "id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "name": "First Division",
+        "country": "Norway",
+        "primatips_table_url": "https://primatips.com/tables/norway/1-division",
+        "teams": [
+            {
+                "id": "de94976b-70eb-4488-8746-4927826f23be",
+                "name": "Aalesunds FK"
+            },
+            {
+                "id": "a59f5fb6-d9e5-4774-9c92-e4dfdf7de33f",
+                "name": "Bryne FK"
+            },
+            {
+                "id": "05d0e68d-0927-4e8e-ad49-ad215ce5d900",
+                "name": "Egersunds IK"
+            },
+            {
+                "id": "3b62ed0f-5e93-48e9-b2e7-43b4ccb4d6fe",
+                "name": "Kongsvinger IL"
+            },
+            {
+                "id": "d6912fa6-6a2f-4ee7-8ea5-f45ef0dba04d",
+                "name": "Levanger FK"
+            },
+            {
+                "id": "e8af801e-3d16-443e-8d17-716b1295fa0d",
+                "name": "FC Lyn Oslo"
+            },
+            {
+                "id": "9a1eadf7-6bf5-4b80-afdb-6b0d92ac6e33",
+                "name": "Mjøndalen IF"
+            },
+            {
+                "id": "f742c882-b3e2-416e-a94b-c9d4f6f030fe",
+                "name": "Moss FK"
+            },
+            {
+                "id": "db594d17-0463-420a-91e8-bb03f4d923ef",
+                "name": "Ranheim Fotball"
+            },
+            {
+                "id": "c649cac2-c458-4bee-9b86-31d6a000f3bb",
+                "name": "Raufoss IL"
+            },
+            {
+                "id": "3b821d1d-085f-49fd-89f7-7a4f8cfc6b1a",
+                "name": "Sandnes Ulf"
+            },
+            {
+                "id": "bbb3aa8d-4277-4eb5-a3a1-9fab236e1fbb",
+                "name": "Sogndal Fotball"
+            },
+            {
+                "id": "0b425f43-ed8d-4863-8e9e-943e4604e6fc",
+                "name": "Stabæk Fotball"
+            },
+            {
+                "id": "1820c43a-7a87-402e-aae4-aa132e4d2a4a",
+                "name": "IK Start"
+            },
+            {
+                "id": "51f45c32-310e-4d1a-8b02-4719945493f2",
+                "name": "Vålerenga Fotball"
+            },
+            {
+                "id": "63480fc7-6fa0-4046-880c-8ed7cf42427f",
+                "name": "Åsane Fotball"
+            }
+        ]
+    }
+]
