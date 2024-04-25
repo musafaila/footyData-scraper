@@ -1,4 +1,4 @@
-#!/home/faila/Vscode/web-scraping/projects/live-odds-cashout/footyData-scraper/venv/bin/python
+#!/home/faila/code/footyData-scraper/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

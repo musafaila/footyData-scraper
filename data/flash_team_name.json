@@ -1,0 +1,3670 @@
+[
+    {
+        "flashscore_name": "Sion",
+        "flashscore_url": "https://www.flashscore.com//team/sion/KbwIFIoN/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Thun",
+        "flashscore_url": "https://www.flashscore.com//team/thun/4WElAd9p/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Aarau",
+        "flashscore_url": "https://www.flashscore.com//team/aarau/ULGuGvHA/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Xamax",
+        "flashscore_url": "https://www.flashscore.com//team/xamax/E5KUOFqd/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Vaduz",
+        "flashscore_url": "https://www.flashscore.com//team/vaduz/G6Ih9GOj/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Wil",
+        "flashscore_url": "https://www.flashscore.com//team/wil/0ztGo01i/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Stade Nyonnais",
+        "flashscore_url": "https://www.flashscore.com//team/stade-nyonnais/QazpbJWT/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Bellinzona",
+        "flashscore_url": "https://www.flashscore.com//team/bellinzona/02GQPeUk/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Schaffhausen",
+        "flashscore_url": "https://www.flashscore.com//team/schaffhausen/zcUpovW3/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Baden",
+        "flashscore_url": "https://www.flashscore.com//team/baden/dby2LYSl/",
+        "league_id": "b77bb3f6-1039-43f0-98c8-5b8e5f122f64",
+        "league_name": "Challenge League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Maccabi Tel Aviv",
+        "flashscore_url": "https://www.flashscore.com//team/maccabi-tel-aviv/req5XE5Q/",
+        "league_id": "552119fe-4015-4c8c-b869-5864d322b12e",
+        "league_name": "Israeli Premier League",
+        "league_country": "Israel"
+    },
+    {
+        "flashscore_name": "Maccabi Haifa",
+        "flashscore_url": "https://www.flashscore.com//team/maccabi-haifa/zVucZzyE/",
+        "league_id": "552119fe-4015-4c8c-b869-5864d322b12e",
+        "league_name": "Israeli Premier League",
+        "league_country": "Israel"
+    },
+    {
+        "flashscore_name": "H. Beer Sheva",
+        "flashscore_url": "https://www.flashscore.com//team/h-beer-sheva/EXAD1YZP/",
+        "league_id": "552119fe-4015-4c8c-b869-5864d322b12e",
+        "league_name": "Israeli Premier League",
+        "league_country": "Israel"
+    },
+    {
+        "flashscore_name": "Hapoel Haifa",
+        "flashscore_url": "https://www.flashscore.com//team/hapoel-haifa/nsYMzMPe/",
+        "league_id": "552119fe-4015-4c8c-b869-5864d322b12e",
+        "league_name": "Israeli Premier League",
+        "league_country": "Israel"
+    },
+    {
+        "flashscore_name": "Maccabi Bnei Raina",
+        "flashscore_url": "https://www.flashscore.com//team/maccabi-bnei-raina/GGDwMfj9/",
+        "league_id": "552119fe-4015-4c8c-b869-5864d322b12e",
+        "league_name": "Israeli Premier League",
+        "league_country": "Israel"
+    },
+    {
+        "flashscore_name": "Sakhnin",
+        "flashscore_url": "https://www.flashscore.com//team/sakhnin/jHv2BXr7/",
+        "league_id": "552119fe-4015-4c8c-b869-5864d322b12e",
+        "league_name": "Israeli Premier League",
+        "league_country": "Israel"
+    },
+    {
+        "flashscore_name": "Leicester",
+        "flashscore_url": "https://www.flashscore.com//team/leicester/KrrdAMyI/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Leeds",
+        "flashscore_url": "https://www.flashscore.com//team/leeds/tUxUbLR2/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Ipswich",
+        "flashscore_url": "https://www.flashscore.com//team/ipswich/thqhB2MB/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Southampton",
+        "flashscore_url": "https://www.flashscore.com//team/southampton/WdKOwxDM/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "West Brom",
+        "flashscore_url": "https://www.flashscore.com//team/west-brom/CCBWpzjj/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Norwich",
+        "flashscore_url": "https://www.flashscore.com//team/norwich/Qo6off6p/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Hull",
+        "flashscore_url": "https://www.flashscore.com//team/hull-city/S66R0t75/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Coventry",
+        "flashscore_url": "https://www.flashscore.com//team/coventry/GOvB22xg/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Middlesbrough",
+        "flashscore_url": "https://www.flashscore.com//team/middlesbrough/6F0lvLNC/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Preston",
+        "flashscore_url": "https://www.flashscore.com//team/preston/x8IDVcbi/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Cardiff",
+        "flashscore_url": "https://www.flashscore.com//team/cardiff/hO8wh6aP/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Bristol City",
+        "flashscore_url": "https://www.flashscore.com//team/bristol-city/MahqU27I/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Sunderland",
+        "flashscore_url": "https://www.flashscore.com//team/sunderland/WSzc94ws/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Swansea",
+        "flashscore_url": "https://www.flashscore.com//team/swansea/K6xezbY7/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Watford",
+        "flashscore_url": "https://www.flashscore.com//team/watford/UmMRoGzp/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Millwall",
+        "flashscore_url": "https://www.flashscore.com//team/millwall/6uz2cJBL/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Stoke",
+        "flashscore_url": "https://www.flashscore.com//team/stoke-city/hSUajdSS/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "QPR",
+        "flashscore_url": "https://www.flashscore.com//team/qpr/lrMHUHDc/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Blackburn",
+        "flashscore_url": "https://www.flashscore.com//team/blackburn/6Nl8nagD/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Plymouth",
+        "flashscore_url": "https://www.flashscore.com//team/plymouth/WpGM6ELj/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Sheffield Wed",
+        "flashscore_url": "https://www.flashscore.com//team/sheffield-wed/llcCvIcG/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Birmingham",
+        "flashscore_url": "https://www.flashscore.com//team/birmingham/SWk4muv7/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Huddersfield",
+        "flashscore_url": "https://www.flashscore.com//team/huddersfield/xxxpBZl2/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Rotherham",
+        "flashscore_url": "https://www.flashscore.com//team/rotherham/KMfM7P4b/",
+        "league_id": "7ec702ba-2b13-4256-9329-ddbd487c05de",
+        "league_name": "Championship",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Bayer Leverkusen",
+        "flashscore_url": "https://www.flashscore.com//team/bayer-leverkusen/4jcj2zMd/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Bayern Munich",
+        "flashscore_url": "https://www.flashscore.com//team/bayern-munich/nVp0wiqd/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Stuttgart",
+        "flashscore_url": "https://www.flashscore.com//team/vfb-stuttgart/nJQmYp1B/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "RB Leipzig",
+        "flashscore_url": "https://www.flashscore.com//team/rb-leipzig/KbS1suSm/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Dortmund",
+        "flashscore_url": "https://www.flashscore.com//team/dortmund/nP1i5US1/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Eintracht Frankfurt",
+        "flashscore_url": "https://www.flashscore.com//team/eintracht-frankfurt/8vndvXTk/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Freiburg",
+        "flashscore_url": "https://www.flashscore.com//team/freiburg/fiEQZ7C7/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Augsburg",
+        "flashscore_url": "https://www.flashscore.com//team/augsburg/fTVNku3I/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Hoffenheim",
+        "flashscore_url": "https://www.flashscore.com//team/hoffenheim/hQAtP9Sl/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Heidenheim",
+        "flashscore_url": "https://www.flashscore.com//team/heidenheim/KWixEVWi/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Werder Bremen",
+        "flashscore_url": "https://www.flashscore.com//team/werder-bremen/Ig1f1fy3/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "B. Monchengladbach",
+        "flashscore_url": "https://www.flashscore.com//team/b-monchengladbach/88HSzjDr/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Wolfsburg",
+        "flashscore_url": "https://www.flashscore.com//team/wolfsburg/nwkTahLL/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Union Berlin",
+        "flashscore_url": "https://www.flashscore.com//team/union-berlin/pzHW4oaE/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Mainz",
+        "flashscore_url": "https://www.flashscore.com//team/mainz/EuakNmc1/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Bochum",
+        "flashscore_url": "https://www.flashscore.com//team/bochum/8Y2m6ADe/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "FC Koln",
+        "flashscore_url": "https://www.flashscore.com//team/1-fc-koln/WG9pOTse/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Darmstadt",
+        "flashscore_url": "https://www.flashscore.com//team/darmstadt/S0hPB9rA/",
+        "league_id": "27ce8032-1bf4-4a0a-9931-449b4a3b526e",
+        "league_name": "Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Holstein Kiel",
+        "flashscore_url": "https://www.flashscore.com//team/holstein-kiel/63WsD2ei/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "St. Pauli",
+        "flashscore_url": "https://www.flashscore.com//team/st-pauli/ILyJuN3g/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Dusseldorf",
+        "flashscore_url": "https://www.flashscore.com//team/dusseldorf/ne1oL3y7/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Hamburger SV",
+        "flashscore_url": "https://www.flashscore.com//team/hamburger/v9k3aY5F/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Karlsruher SC",
+        "flashscore_url": "https://www.flashscore.com//team/karlsruher/EB3q7jbk/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Hannover",
+        "flashscore_url": "https://www.flashscore.com//team/hannover/dfNCCCzS/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Hertha Berlin",
+        "flashscore_url": "https://www.flashscore.com//team/hertha-berlin/2y0u8Wrq/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Paderborn",
+        "flashscore_url": "https://www.flashscore.com//team/paderborn/G2Op923t/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Greuther Furth",
+        "flashscore_url": "https://www.flashscore.com//team/greuther-furth/CCQGbik8/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Elversberg",
+        "flashscore_url": "https://www.flashscore.com//team/elversberg/6in2Eknb/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Nurnberg",
+        "flashscore_url": "https://www.flashscore.com//team/nurnberg/6FDqshzF/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Magdeburg",
+        "flashscore_url": "https://www.flashscore.com//team/magdeburg/YFuz2RLm/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Schalke",
+        "flashscore_url": "https://www.flashscore.com//team/schalke/0Ija0Ej9/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Braunschweig",
+        "flashscore_url": "https://www.flashscore.com//team/braunschweig/QqLCC3il/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Wehen",
+        "flashscore_url": "https://www.flashscore.com//team/wehen/ObxFt3lm/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Hansa Rostock",
+        "flashscore_url": "https://www.flashscore.com//team/hansa-rostock/KIHmtCkL/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Kaiserslautern",
+        "flashscore_url": "https://www.flashscore.com//team/kaiserslautern/naWckLmC/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "VfL Osnabruck",
+        "flashscore_url": "https://www.flashscore.com//team/vfl-osnabruck/88Xgj1Y5/",
+        "league_id": "7870739f-daf6-4c67-bc2f-49bc98ede0a5",
+        "league_name": "2. Bundesliga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Ulm",
+        "flashscore_url": "https://www.flashscore.com//team/ulm/tbC3EcQn/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Regensburg",
+        "flashscore_url": "https://www.flashscore.com//team/regensburg/UiCmEP56/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Preussen Munster",
+        "flashscore_url": "https://www.flashscore.com//team/preussen-munster/zedZaSL7/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "SG Dynamo Dresden",
+        "flashscore_url": "https://www.flashscore.com//team/dresden/zL1YsOi1/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "RW Essen",
+        "flashscore_url": "https://www.flashscore.com//team/rw-essen/EB0xsr77/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Saarbrucken",
+        "flashscore_url": "https://www.flashscore.com//team/saarbrucken/fLbhmJ5l/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Sandhausen",
+        "flashscore_url": "https://www.flashscore.com//team/sandhausen/UZxEj1R4/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Aue",
+        "flashscore_url": "https://www.flashscore.com//team/aue/vsXIDreP/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Ingolstadt",
+        "flashscore_url": "https://www.flashscore.com//team/ingolstadt/ne5QkLtB/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Dortmund II",
+        "flashscore_url": "https://www.flashscore.com//team/dortmund/vVcwNP6f/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Unterhaching",
+        "flashscore_url": "https://www.flashscore.com//team/unterhaching/UJfVludH/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Viktoria Koln",
+        "flashscore_url": "https://www.flashscore.com//team/fc-viktoria-koln/44oKBLkf/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Verl",
+        "flashscore_url": "https://www.flashscore.com//team/verl/ryb0Dqxr/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Munich 1860",
+        "flashscore_url": "https://www.flashscore.com//team/munich-1860/byXHwsJa/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Arminia Bielefeld",
+        "flashscore_url": "https://www.flashscore.com//team/arminia-bielefeld/pp38UXK8/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Mannheim",
+        "flashscore_url": "https://www.flashscore.com//team/mannheim/6LJtezQO/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Hallescher",
+        "flashscore_url": "https://www.flashscore.com//team/hallescher/boX3cIQa/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Duisburg",
+        "flashscore_url": "https://www.flashscore.com//team/duisburg/2s7huW4R/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Lubeck",
+        "flashscore_url": "https://www.flashscore.com//team/lubeck/WWCS5Rq8/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Freiburg II",
+        "flashscore_url": "https://www.flashscore.com//team/freiburg/CrMXJJ2P/",
+        "league_id": "e6ab7f76-6312-478c-8788-ab77ffd3b07a",
+        "league_name": "3. Liga",
+        "league_country": "Germany"
+    },
+    {
+        "flashscore_name": "Real Madrid",
+        "flashscore_url": "https://www.flashscore.com//team/real-madrid/W8mj7MDD/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Barcelona",
+        "flashscore_url": "https://www.flashscore.com//team/barcelona/SKbpVP5K/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Girona",
+        "flashscore_url": "https://www.flashscore.com//team/girona/nNNpcUSL/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Atl. Madrid",
+        "flashscore_url": "https://www.flashscore.com//team/atl-madrid/jaarqpLQ/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Ath Bilbao",
+        "flashscore_url": "https://www.flashscore.com//team/ath-bilbao/IP5zl0cJ/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Real Sociedad",
+        "flashscore_url": "https://www.flashscore.com//team/real-sociedad/jNvak2f3/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Betis",
+        "flashscore_url": "https://www.flashscore.com//team/betis/vJbTeCGP/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Valencia",
+        "flashscore_url": "https://www.flashscore.com//team/valencia/CQeaytrD/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Villarreal",
+        "flashscore_url": "https://www.flashscore.com//team/villarreal/lUatW5jE/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Getafe",
+        "flashscore_url": "https://www.flashscore.com//team/getafe/dboeiWOt/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Osasuna",
+        "flashscore_url": "https://www.flashscore.com//team/osasuna/ETdxjU8a/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Sevilla",
+        "flashscore_url": "https://www.flashscore.com//team/sevilla/h8oAv4Ts/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Las Palmas",
+        "flashscore_url": "https://www.flashscore.com//team/las-palmas/IyRQC2vM/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Alaves",
+        "flashscore_url": "https://www.flashscore.com//team/alaves/hxt57t2q/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Rayo Vallecano",
+        "flashscore_url": "https://www.flashscore.com//team/rayo-vallecano/8bcjFy6O/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Mallorca",
+        "flashscore_url": "https://www.flashscore.com//team/mallorca/4jDQxrbf/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Celta Vigo",
+        "flashscore_url": "https://www.flashscore.com//team/celta-vigo/8pvUZFhf/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Cadiz CF",
+        "flashscore_url": "https://www.flashscore.com//team/cadiz/hdWjLJUJ/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Granada CF",
+        "flashscore_url": "https://www.flashscore.com//team/granada-cf/EXuxl1xP/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Almeria",
+        "flashscore_url": "https://www.flashscore.com//team/almeria/nF2Vy2D0/",
+        "league_id": "567ab081-81f9-4bff-a05b-53c1cc2ab6e7",
+        "league_name": "La Liga",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Leganes",
+        "flashscore_url": "https://www.flashscore.com//team/leganes/Mi0rXQg7/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Eibar",
+        "flashscore_url": "https://www.flashscore.com//team/eibar/OEsEpExD/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Valladolid",
+        "flashscore_url": "https://www.flashscore.com//team/valladolid/zkpajjvm/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Espanyol",
+        "flashscore_url": "https://www.flashscore.com//team/espanyol/QFfPdh1J/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Elche",
+        "flashscore_url": "https://www.flashscore.com//team/elche/4jl02tPF/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Gijon",
+        "flashscore_url": "https://www.flashscore.com//team/gijon/69w4Rb2d/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "R. Oviedo",
+        "flashscore_url": "https://www.flashscore.com//team/r-oviedo/SzYzw34K/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Ferrol",
+        "flashscore_url": "https://www.flashscore.com//team/ferrol/zcgwCMgS/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Racing Santander",
+        "flashscore_url": "https://www.flashscore.com//team/racing-santander/nVpEwOrl/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Burgos CF",
+        "flashscore_url": "https://www.flashscore.com//team/burgos-cf/vTxTEFi6/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Levante",
+        "flashscore_url": "https://www.flashscore.com//team/levante/G8FL0ShI/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Tenerife",
+        "flashscore_url": "https://www.flashscore.com//team/tenerife/IHv6nz80/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Zaragoza",
+        "flashscore_url": "https://www.flashscore.com//team/zaragoza/za7D2lO5/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Huesca",
+        "flashscore_url": "https://www.flashscore.com//team/huesca/UytPaaEP/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Eldense",
+        "flashscore_url": "https://www.flashscore.com//team/eldense/8WUSyF3F/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "FC Cartagena SAD",
+        "flashscore_url": "https://www.flashscore.com//team/fc-cartagena-sad/IJyXDZ6C/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Mirandes",
+        "flashscore_url": "https://www.flashscore.com//team/mirandes/48Z7G1Sf/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Alcorcon",
+        "flashscore_url": "https://www.flashscore.com//team/alcorcon/0ranWp9D/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Albacete",
+        "flashscore_url": "https://www.flashscore.com//team/albacete/UirAofN6/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Amorebieta",
+        "flashscore_url": "https://www.flashscore.com//team/amorebieta/pfuJWA0r/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Andorra",
+        "flashscore_url": "https://www.flashscore.com//team/fc-andorra/O6ucWgAa/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Villarreal B",
+        "flashscore_url": "https://www.flashscore.com//team/villarreal/YT0e2vMU/",
+        "league_id": "911ad7d7-3155-4839-9412-c0dd722ef102",
+        "league_name": "Segunda División",
+        "league_country": "Spain"
+    },
+    {
+        "flashscore_name": "Inter",
+        "flashscore_url": "https://www.flashscore.com//team/inter/Iw7eKK25/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "AC Milan",
+        "flashscore_url": "https://www.flashscore.com//team/ac-milan/8Sa8HInO/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Juventus",
+        "flashscore_url": "https://www.flashscore.com//team/juventus/C06aJvIB/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Bologna",
+        "flashscore_url": "https://www.flashscore.com//team/bologna/0M9xNN8N/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "AS Roma",
+        "flashscore_url": "https://www.flashscore.com//team/as-roma/zVqqL0ma/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Atalanta",
+        "flashscore_url": "https://www.flashscore.com//team/atalanta/8C9JjMXu/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Lazio",
+        "flashscore_url": "https://www.flashscore.com//team/lazio/URcSl02h/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Napoli",
+        "flashscore_url": "https://www.flashscore.com//team/napoli/69Dxbc61/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Fiorentina",
+        "flashscore_url": "https://www.flashscore.com//team/fiorentina/Q3A3IbXH/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Torino",
+        "flashscore_url": "https://www.flashscore.com//team/torino/MZFZnvX4/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Monza",
+        "flashscore_url": "https://www.flashscore.com//team/monza/4YSMlwj7/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Genoa",
+        "flashscore_url": "https://www.flashscore.com//team/genoa/d0PJxeie/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Lecce",
+        "flashscore_url": "https://www.flashscore.com//team/lecce/G8lYsMgU/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Cagliari",
+        "flashscore_url": "https://www.flashscore.com//team/cagliari/SCGVmKHb/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Verona",
+        "flashscore_url": "https://www.flashscore.com//team/verona/rJVAIaHo/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Empoli",
+        "flashscore_url": "https://www.flashscore.com//team/empoli/0ESCnI1H/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Udinese",
+        "flashscore_url": "https://www.flashscore.com//team/udinese/rXw8YKDE/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Frosinone",
+        "flashscore_url": "https://www.flashscore.com//team/frosinone/pfo9H1Wp/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Sassuolo",
+        "flashscore_url": "https://www.flashscore.com//team/sassuolo/QDdvI0zl/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Salernitana",
+        "flashscore_url": "https://www.flashscore.com//team/salernitana/Mq05g4BP/",
+        "league_id": "0e0f9b31-3e0a-4498-87c8-7e67c99c0e3d",
+        "league_name": "Serie A",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Parma",
+        "flashscore_url": "https://www.flashscore.com//team/parma/6DxlaxHN/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Como",
+        "flashscore_url": "https://www.flashscore.com//team/como/ttyLthOA/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Venezia",
+        "flashscore_url": "https://www.flashscore.com//team/venezia/MkPmVv50/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Cremonese",
+        "flashscore_url": "https://www.flashscore.com//team/cremonese/KUzfp5N3/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Catanzaro",
+        "flashscore_url": "https://www.flashscore.com//team/catanzaro/GnizyMB7/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Palermo",
+        "flashscore_url": "https://www.flashscore.com//team/palermo/n38Nktmn/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Brescia",
+        "flashscore_url": "https://www.flashscore.com//team/brescia/jci0qO9B/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Sampdoria",
+        "flashscore_url": "https://www.flashscore.com//team/sampdoria/nJbCGx2U/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Pisa",
+        "flashscore_url": "https://www.flashscore.com//team/pisa/roasMsOT/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Cittadella",
+        "flashscore_url": "https://www.flashscore.com//team/cittadella/C0yUqo8c/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Sudtirol",
+        "flashscore_url": "https://www.flashscore.com//team/sudtirol/W02MZDnp/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Modena",
+        "flashscore_url": "https://www.flashscore.com//team/modena/MBn63swN/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Reggiana",
+        "flashscore_url": "https://www.flashscore.com//team/reggiana/6ulJbMCe/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Cosenza",
+        "flashscore_url": "https://www.flashscore.com//team/cosenza/p84TeBhA/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Ternana",
+        "flashscore_url": "https://www.flashscore.com//team/ternana/zVUNUKkf/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Bari",
+        "flashscore_url": "https://www.flashscore.com//team/bari/xIkUr2vO/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Spezia",
+        "flashscore_url": "https://www.flashscore.com//team/spezia/re6VD39b/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Ascoli",
+        "flashscore_url": "https://www.flashscore.com//team/ascoli/hd6UOqvB/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "FeralpiSalo",
+        "flashscore_url": "https://www.flashscore.com//team/feralpisalo/foQN7jy8/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "Lecco",
+        "flashscore_url": "https://www.flashscore.com//team/lecco/IsxHSx6l/",
+        "league_id": "dc445b6c-cf25-4b67-bb66-1be002d41335",
+        "league_name": "Serie B",
+        "league_country": "Italy"
+    },
+    {
+        "flashscore_name": "PSG",
+        "flashscore_url": "https://www.flashscore.com//team/psg/CjhkPw0k/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Monaco",
+        "flashscore_url": "https://www.flashscore.com//team/monaco/2PIvr8o4/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Brest",
+        "flashscore_url": "https://www.flashscore.com//team/brest/Cr4VGaUl/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Lille",
+        "flashscore_url": "https://www.flashscore.com//team/lille/pfDZL71o/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Nice",
+        "flashscore_url": "https://www.flashscore.com//team/nice/YagoQJpq/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Lens",
+        "flashscore_url": "https://www.flashscore.com//team/lens/IBmris38/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Rennes",
+        "flashscore_url": "https://www.flashscore.com//team/rennes/d2nnj1IE/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Lyon",
+        "flashscore_url": "https://www.flashscore.com//team/lyon/2akflumR/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Marseille",
+        "flashscore_url": "https://www.flashscore.com//team/marseille/SblU3Hee/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Reims",
+        "flashscore_url": "https://www.flashscore.com//team/reims/tItR6sEf/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Toulouse",
+        "flashscore_url": "https://www.flashscore.com//team/toulouse/MLmY2yB1/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Montpellier",
+        "flashscore_url": "https://www.flashscore.com//team/montpellier/Eyf00syR/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Strasbourg",
+        "flashscore_url": "https://www.flashscore.com//team/strasbourg/nP6UzIU1/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Nantes",
+        "flashscore_url": "https://www.flashscore.com//team/nantes/veuetnGG/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Metz",
+        "flashscore_url": "https://www.flashscore.com//team/metz/4v0yqlWc/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Le Havre",
+        "flashscore_url": "https://www.flashscore.com//team/le-havre/CIEe04GT/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Lorient",
+        "flashscore_url": "https://www.flashscore.com//team/lorient/jgNAYRGi/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Clermont",
+        "flashscore_url": "https://www.flashscore.com//team/clermont/IRuMRua1/",
+        "league_id": "d7ba53c8-9746-4dfa-bfa8-51db72e7324d",
+        "league_name": "Ligue 1",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Auxerre",
+        "flashscore_url": "https://www.flashscore.com//team/auxerre/MTLr36WA/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Angers",
+        "flashscore_url": "https://www.flashscore.com//team/angers/SAlF91iL/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "St Etienne",
+        "flashscore_url": "https://www.flashscore.com//team/st-etienne/YL2QybFe/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Rodez",
+        "flashscore_url": "https://www.flashscore.com//team/rodez/0pOdQOCg/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Paris FC",
+        "flashscore_url": "https://www.flashscore.com//team/paris-fc/0OEHEprs/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Pau FC",
+        "flashscore_url": "https://www.flashscore.com//team/pau/6NOhR4cm/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Caen",
+        "flashscore_url": "https://www.flashscore.com//team/caen/GjLn2QoH/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Laval",
+        "flashscore_url": "https://www.flashscore.com//team/laval/E1wDrLsJ/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Guingamp",
+        "flashscore_url": "https://www.flashscore.com//team/guingamp/QDfKl36E/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Bastia",
+        "flashscore_url": "https://www.flashscore.com//team/bastia/AZwK8L6R/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Grenoble",
+        "flashscore_url": "https://www.flashscore.com//team/grenoble/UgPj1p1N/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Amiens",
+        "flashscore_url": "https://www.flashscore.com//team/amiens-sc/lKkBAsxF/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "AC Ajaccio",
+        "flashscore_url": "https://www.flashscore.com//team/ac-ajaccio/2aeoANM8/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Bordeaux",
+        "flashscore_url": "https://www.flashscore.com//team/bordeaux/SKc9FeQ7/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Dunkerque",
+        "flashscore_url": "https://www.flashscore.com//team/dunkerque/tAAobNse/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Annecy",
+        "flashscore_url": "https://www.flashscore.com//team/annecy/25dB6Eto/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Troyes",
+        "flashscore_url": "https://www.flashscore.com//team/troyes/fsfAHubD/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Concarneau",
+        "flashscore_url": "https://www.flashscore.com//team/concarneau/Uo57pG95/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Quevilly Rouen",
+        "flashscore_url": "https://www.flashscore.com//team/quevilly/fPCzUHN1/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Valenciennes",
+        "flashscore_url": "https://www.flashscore.com//team/valenciennes/O8dsB372/",
+        "league_id": "554bfd9f-07aa-4c57-b549-4fef9541e2e3",
+        "league_name": "Ligue 2",
+        "league_country": "France"
+    },
+    {
+        "flashscore_name": "Willem II",
+        "flashscore_url": "https://www.flashscore.com//team/willem-ii/6u3qag0G/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Roda",
+        "flashscore_url": "https://www.flashscore.com//team/roda/6FRTNZ8p/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Groningen",
+        "flashscore_url": "https://www.flashscore.com//team/groningen/MBUGcjb9/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Dordrecht",
+        "flashscore_url": "https://www.flashscore.com//team/dordrecht/fT0n14Vt/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Den Haag",
+        "flashscore_url": "https://www.flashscore.com//team/den-haag/lAgLCkT3/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "De Graafschap",
+        "flashscore_url": "https://www.flashscore.com//team/de-graafschap/naL1J006/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Jong AZ",
+        "flashscore_url": "https://www.flashscore.com//team/jong-az-alkmaar/lKIgIV5b/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "NAC Breda",
+        "flashscore_url": "https://www.flashscore.com//team/nac-breda/nLNrHc14/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Maastricht",
+        "flashscore_url": "https://www.flashscore.com//team/maastricht/YPQnAtpC/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "FC Emmen",
+        "flashscore_url": "https://www.flashscore.com//team/fc-emmen/Stafar0g/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Helmond",
+        "flashscore_url": "https://www.flashscore.com//team/helmond-sport/SQGBcMU5/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Cambuur",
+        "flashscore_url": "https://www.flashscore.com//team/cambuur/QRyYgO7J/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Venlo",
+        "flashscore_url": "https://www.flashscore.com//team/venlo/UNA6IKFC/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Jong Ajax",
+        "flashscore_url": "https://www.flashscore.com//team/jong-ajax/GncWwxTm/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Eindhoven FC",
+        "flashscore_url": "https://www.flashscore.com//team/eindhoven-fc/YJaj0Opm/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Jong PSV",
+        "flashscore_url": "https://www.flashscore.com//team/jong-psv/8Au8eRom/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Telstar",
+        "flashscore_url": "https://www.flashscore.com//team/telstar/Aw0qTPat/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Oss",
+        "flashscore_url": "https://www.flashscore.com//team/top-oss/40amSqFn/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Den Bosch",
+        "flashscore_url": "https://www.flashscore.com//team/den-bosch/4IzxgrNP/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Jong Utrecht",
+        "flashscore_url": "https://www.flashscore.com//team/jong-utrecht/2J6mntb0/",
+        "league_id": "5498e950-c9e9-43da-9b41-f215dbc9d2ef",
+        "league_name": "Eerste Divisie",
+        "league_country": "Netherlands"
+    },
+    {
+        "flashscore_name": "Sporting CP",
+        "flashscore_url": "https://www.flashscore.com//team/sporting-lisbon/tljXuHBC/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Benfica",
+        "flashscore_url": "https://www.flashscore.com//team/benfica/zBkyuyRI/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "FC Porto",
+        "flashscore_url": "https://www.flashscore.com//team/fc-porto/S2NmScGp/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Braga",
+        "flashscore_url": "https://www.flashscore.com//team/braga/dpUer7ht/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Vitoria Guimaraes",
+        "flashscore_url": "https://www.flashscore.com//team/vitoria-guimaraes/pQYVZyD2/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Arouca",
+        "flashscore_url": "https://www.flashscore.com//team/arouca/fJqfm7CG/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Moreirense",
+        "flashscore_url": "https://www.flashscore.com//team/moreirense/8d9NGt9H/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Famalicao",
+        "flashscore_url": "https://www.flashscore.com//team/famalicao/ABBgitC3/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Casa Pia",
+        "flashscore_url": "https://www.flashscore.com//team/casa-pia/QFHt9Zgs/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "SC Farense",
+        "flashscore_url": "https://www.flashscore.com//team/sc-farense/0YgpqHGj/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Rio Ave",
+        "flashscore_url": "https://www.flashscore.com//team/rio-ave/jPzXLi4l/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Gil Vicente",
+        "flashscore_url": "https://www.flashscore.com//team/gil-vicente/CS0fFFd8/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Boavista",
+        "flashscore_url": "https://www.flashscore.com//team/boavista/n5XEAYKe/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Estoril",
+        "flashscore_url": "https://www.flashscore.com//team/estoril/htoKuYZl/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Estrela",
+        "flashscore_url": "https://www.flashscore.com//team/estrela-da-amadora/hrYABE5k/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Portimonense",
+        "flashscore_url": "https://www.flashscore.com//team/portimonense/6ecm9Xlr/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Chaves",
+        "flashscore_url": "https://www.flashscore.com//team/chaves/vsToxqA5/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Vizela",
+        "flashscore_url": "https://www.flashscore.com//team/vizela/baN9J93D/",
+        "league_id": "99367c6c-4b0b-4d9d-8965-1cb61b1aecd8",
+        "league_name": "Liga NOS",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Santa Clara",
+        "flashscore_url": "https://www.flashscore.com//team/santa-clara/YmQyLBJf/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Nacional",
+        "flashscore_url": "https://www.flashscore.com//team/nacional/4ETLrR7n/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "AVS",
+        "flashscore_url": "https://www.flashscore.com//team/avs/IZPeUwtM/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Maritimo",
+        "flashscore_url": "https://www.flashscore.com//team/maritimo/noguvetP/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Pacos Ferreira",
+        "flashscore_url": "https://www.flashscore.com//team/pacos-ferreira/hxT1f5xa/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Tondela",
+        "flashscore_url": "https://www.flashscore.com//team/tondela/nFFgCnVo/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Mafra",
+        "flashscore_url": "https://www.flashscore.com//team/mafra/IPOO94UA/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Torreense",
+        "flashscore_url": "https://www.flashscore.com//team/torreense/8jQErKhN/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "FC Porto B",
+        "flashscore_url": "https://www.flashscore.com//team/fc-porto/vNt65kUG/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Leiria",
+        "flashscore_url": "https://www.flashscore.com//team/leiria/AceEgPi5/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Academico Viseu",
+        "flashscore_url": "https://www.flashscore.com//team/academico-viseu/GrRgeTHo/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Benfica B",
+        "flashscore_url": "https://www.flashscore.com//team/benfica/Spbrn1Te/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Penafiel",
+        "flashscore_url": "https://www.flashscore.com//team/penafiel/lGALDDtR/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Leixoes",
+        "flashscore_url": "https://www.flashscore.com//team/leixoes/jPr7ndS8/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Oliveirense",
+        "flashscore_url": "https://www.flashscore.com//team/oliveirense/tA7VEKwU/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Feirense",
+        "flashscore_url": "https://www.flashscore.com//team/feirense/t4p0iC41/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Os Belenenses",
+        "flashscore_url": "https://www.flashscore.com//team/cf-os-belenenses/SKFZK1yG/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Vilaverdense",
+        "flashscore_url": "https://www.flashscore.com//team/vilaverdense-fc/48NynoZo/",
+        "league_id": "f707c842-8ac2-477f-bd8e-c410d6dbf634",
+        "league_name": "LigaPro",
+        "league_country": "Portugal"
+    },
+    {
+        "flashscore_name": "Grazer AK",
+        "flashscore_url": "https://www.flashscore.com//team/grazer-ak/bcsfIr0i/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Ried",
+        "flashscore_url": "https://www.flashscore.com//team/ried/6c17idcf/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Leoben",
+        "flashscore_url": "https://www.flashscore.com//team/leoben/KW7Tjxd6/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Floridsdorfer AC",
+        "flashscore_url": "https://www.flashscore.com//team/floridsdorfer-ac-wien/r9HwRaWH/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Admira",
+        "flashscore_url": "https://www.flashscore.com//team/admira/Yk4H6LHn/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "First Vienna",
+        "flashscore_url": "https://www.flashscore.com//team/first-vienna/Eez3RKEM/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Liefering",
+        "flashscore_url": "https://www.flashscore.com//team/fc-liefering/Cv27lapN/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "St. Polten",
+        "flashscore_url": "https://www.flashscore.com//team/st-polten/8KA7Qw1U/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Lafnitz",
+        "flashscore_url": "https://www.flashscore.com//team/lafnitz/d2qFIbVn/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Horn",
+        "flashscore_url": "https://www.flashscore.com//team/horn/jXu9HJ15/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Bregenz",
+        "flashscore_url": "https://www.flashscore.com//team/sw-bregenz/fmD86L0H/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Kapfenberg",
+        "flashscore_url": "https://www.flashscore.com//team/kapfenberg/SUpSZy5K/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Stripfing",
+        "flashscore_url": "https://www.flashscore.com//team/stripfing/dOdvIwtg/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Dornbirn",
+        "flashscore_url": "https://www.flashscore.com//team/dornbirn/lYf5oNFA/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Sturm Graz (Am)",
+        "flashscore_url": "https://www.flashscore.com//team/sturm/8IZ6QvUS/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Amstetten",
+        "flashscore_url": "https://www.flashscore.com//team/amstetten/YHWHwmRf/",
+        "league_id": "9ae1b95e-d513-4f55-b89c-fdbd672e2e99",
+        "league_name": "2. Liga",
+        "league_country": "Austria"
+    },
+    {
+        "flashscore_name": "Brondby",
+        "flashscore_url": "https://www.flashscore.com//team/brondby/67R5vKqt/",
+        "league_id": "4990867c-5755-4818-afdb-6d5bb06bd75f",
+        "league_name": "Superliga",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Midtjylland",
+        "flashscore_url": "https://www.flashscore.com//team/midtjylland/8GZDmdbB/",
+        "league_id": "4990867c-5755-4818-afdb-6d5bb06bd75f",
+        "league_name": "Superliga",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "FC Copenhagen",
+        "flashscore_url": "https://www.flashscore.com//team/fc-copenhagen/hSPZwbEh/",
+        "league_id": "4990867c-5755-4818-afdb-6d5bb06bd75f",
+        "league_name": "Superliga",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Nordsjaelland",
+        "flashscore_url": "https://www.flashscore.com//team/nordsjaelland/2wZHnGDH/",
+        "league_id": "4990867c-5755-4818-afdb-6d5bb06bd75f",
+        "league_name": "Superliga",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Aarhus",
+        "flashscore_url": "https://www.flashscore.com//team/aarhus/OOXnKGbO/",
+        "league_id": "4990867c-5755-4818-afdb-6d5bb06bd75f",
+        "league_name": "Superliga",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Silkeborg",
+        "flashscore_url": "https://www.flashscore.com//team/silkeborg/4dCl8IE5/",
+        "league_id": "4990867c-5755-4818-afdb-6d5bb06bd75f",
+        "league_name": "Superliga",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Sonderjyske",
+        "flashscore_url": "https://www.flashscore.com//team/sonderjyske/42ectuVa/",
+        "league_id": "4cc7958c-0828-4024-ba6c-932cc6cd38d0",
+        "league_name": "1st Division",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Aalborg",
+        "flashscore_url": "https://www.flashscore.com//team/aalborg/U1YrLdqI/",
+        "league_id": "4cc7958c-0828-4024-ba6c-932cc6cd38d0",
+        "league_name": "1st Division",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Fredericia",
+        "flashscore_url": "https://www.flashscore.com//team/fredericia/Aab5vJaC/",
+        "league_id": "4cc7958c-0828-4024-ba6c-932cc6cd38d0",
+        "league_name": "1st Division",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Kolding IF",
+        "flashscore_url": "https://www.flashscore.com//team/kolding-if/WEnExcUO/",
+        "league_id": "4cc7958c-0828-4024-ba6c-932cc6cd38d0",
+        "league_name": "1st Division",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Vendsyssel",
+        "flashscore_url": "https://www.flashscore.com//team/vendsyssel-ff/AmWVFgcN/",
+        "league_id": "4cc7958c-0828-4024-ba6c-932cc6cd38d0",
+        "league_name": "1st Division",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Hobro",
+        "flashscore_url": "https://www.flashscore.com//team/hobro/zuD4T1wG/",
+        "league_id": "4cc7958c-0828-4024-ba6c-932cc6cd38d0",
+        "league_name": "1st Division",
+        "league_country": "Denmark"
+    },
+    {
+        "flashscore_name": "Malmo FF",
+        "flashscore_url": "https://www.flashscore.com//team/malmo-ff/tYNTdpar/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "AIK",
+        "flashscore_url": "https://www.flashscore.com//team/aik/lzqk4S68/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Brommapojkarna",
+        "flashscore_url": "https://www.flashscore.com//team/brommapojkarna/ELVAW0WQ/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Djurgarden",
+        "flashscore_url": "https://www.flashscore.com//team/djurgarden/4Kh5hPE1/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Mjallby",
+        "flashscore_url": "https://www.flashscore.com//team/mjallby/S0XtXM1E/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Hacken",
+        "flashscore_url": "https://www.flashscore.com//team/hacken/W6u0d7B3/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Hammarby",
+        "flashscore_url": "https://www.flashscore.com//team/hammarby/SQsg3nME/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Sirius",
+        "flashscore_url": "https://www.flashscore.com//team/sirius/vXr8fotG/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "GAIS",
+        "flashscore_url": "https://www.flashscore.com//team/gais/bJewAOTf/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Halmstad",
+        "flashscore_url": "https://www.flashscore.com//team/halmstad/Mmsc26yL/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Elfsborg",
+        "flashscore_url": "https://www.flashscore.com//team/elfsborg/rBi9iqU7/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Goteborg",
+        "flashscore_url": "https://www.flashscore.com//team/ifk-goteborg/UovQtopk/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Varnamo",
+        "flashscore_url": "https://www.flashscore.com//team/varnamo/djzjJdOb/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Norrkoping",
+        "flashscore_url": "https://www.flashscore.com//team/norrkoping/tpjDEBbi/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Kalmar",
+        "flashscore_url": "https://www.flashscore.com//team/kalmar/rkrUu5ae/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Vasteras SK",
+        "flashscore_url": "https://www.flashscore.com//team/vasteras-sk/l8oLwJhB/",
+        "league_id": "0f211a60-304e-4e9b-affc-514c3ecb67b4",
+        "league_name": "Allsvenskan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Landskrona",
+        "flashscore_url": "https://www.flashscore.com//team/landskrona/YPU3LPlp/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Degerfors",
+        "flashscore_url": "https://www.flashscore.com//team/degerfors/zNSwBuue/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Brage",
+        "flashscore_url": "https://www.flashscore.com//team/brage/Ye5hqs2o/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Utsikten",
+        "flashscore_url": "https://www.flashscore.com//team/utsikten/vodVqZnc/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Oster",
+        "flashscore_url": "https://www.flashscore.com//team/oster/KQEAENtF/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Oddevold",
+        "flashscore_url": "https://www.flashscore.com//team/oddevold/KGgIJkAd/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Skovde AIK",
+        "flashscore_url": "https://www.flashscore.com//team/skovde/vVej01nJ/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Sundsvall",
+        "flashscore_url": "https://www.flashscore.com//team/sundsvall/fmfHDVDc/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Sandviken",
+        "flashscore_url": "https://www.flashscore.com//team/sandviken/hAcM0NH6/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Helsingborg",
+        "flashscore_url": "https://www.flashscore.com//team/helsingborg/zio11QjR/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Ostersund",
+        "flashscore_url": "https://www.flashscore.com//team/ostersund/dvUkoqAQ/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Orebro",
+        "flashscore_url": "https://www.flashscore.com//team/orebro/xAfs9rq1/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Varberg",
+        "flashscore_url": "https://www.flashscore.com//team/varberg/IyeZrg23/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Trelleborg",
+        "flashscore_url": "https://www.flashscore.com//team/trelleborg/KYqn82b7/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Gefle",
+        "flashscore_url": "https://www.flashscore.com//team/gefle/jkdD94El/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Orgryte",
+        "flashscore_url": "https://www.flashscore.com//team/orgryte/CGT7Kq4j/",
+        "league_id": "30bee84f-44b9-4af3-bf81-9264d09dc1f2",
+        "league_name": "Superettan",
+        "league_country": "Sweden"
+    },
+    {
+        "flashscore_name": "Bodo/Glimt",
+        "flashscore_url": "https://www.flashscore.com//team/bodo-glimt/S0WZMUNG/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Molde",
+        "flashscore_url": "https://www.flashscore.com//team/molde/KYcp5BgH/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Brann",
+        "flashscore_url": "https://www.flashscore.com//team/brann/QBbt6ivB/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Rosenborg",
+        "flashscore_url": "https://www.flashscore.com//team/rosenborg/G8LlPCOi/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Stromsgodset",
+        "flashscore_url": "https://www.flashscore.com//team/stromsgodset/GS7ehkOT/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Kristiansund",
+        "flashscore_url": "https://www.flashscore.com//team/kristiansund/IDDWgzKt/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Odd",
+        "flashscore_url": "https://www.flashscore.com//team/odds-bk/6mNsUS0p/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Haugesund",
+        "flashscore_url": "https://www.flashscore.com//team/haugesund/l8zGY8hT/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Lillestrom",
+        "flashscore_url": "https://www.flashscore.com//team/lillestrom/xYWBZlwN/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Fredrikstad",
+        "flashscore_url": "https://www.flashscore.com//team/fredrikstad/bPdl4V8N/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "KFUM Oslo",
+        "flashscore_url": "https://www.flashscore.com//team/kfum-oslo/K4YaWRyM/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Viking",
+        "flashscore_url": "https://www.flashscore.com//team/viking/bXAgOWwb/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Sandefjord",
+        "flashscore_url": "https://www.flashscore.com//team/sandefjord/IXyr4UxA/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Sarpsborg 08",
+        "flashscore_url": "https://www.flashscore.com//team/sarpsborg-08/UPrP2SMS/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "HamKam",
+        "flashscore_url": "https://www.flashscore.com//team/ham-kam/pp5f19Wp/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Tromso",
+        "flashscore_url": "https://www.flashscore.com//team/tromso/25HpQh9o/",
+        "league_id": "f340a40e-9bdb-4b50-8519-f5fc2ea3053f",
+        "league_name": "Eliteserien",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Sparta Prague",
+        "flashscore_url": "https://www.flashscore.com//team/sparta-prague/6qA358jH/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Slavia Prague",
+        "flashscore_url": "https://www.flashscore.com//team/slavia-prague/viXGgnyB/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Plzen",
+        "flashscore_url": "https://www.flashscore.com//team/plzen/2LA0e86b/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Ostrava",
+        "flashscore_url": "https://www.flashscore.com//team/ostrava/lI6ddlih/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Mlada Boleslav",
+        "flashscore_url": "https://www.flashscore.com//team/mlada-boleslav/0f7GpAMu/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Slovacko",
+        "flashscore_url": "https://www.flashscore.com//team/slovacko/MNEDyOlF/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Liberec",
+        "flashscore_url": "https://www.flashscore.com//team/liberec/4bp6yRjU/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Sigma Olomouc",
+        "flashscore_url": "https://www.flashscore.com//team/sigma-olomouc/drA4fSL4/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Hradec Kralove",
+        "flashscore_url": "https://www.flashscore.com//team/hradec-kralove/vFXjbHms/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Teplice",
+        "flashscore_url": "https://www.flashscore.com//team/teplice/r9XWmtLq/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Bohemians",
+        "flashscore_url": "https://www.flashscore.com//team/bohemians-1905/fuXqHnxa/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Jablonec",
+        "flashscore_url": "https://www.flashscore.com//team/jablonec/CM8ySpMH/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "FK Pardubice",
+        "flashscore_url": "https://www.flashscore.com//team/fk-pardubice/Ys4YYBPn/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Zlin",
+        "flashscore_url": "https://www.flashscore.com//team/zlin/C09N1Ikd/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Ceske Budejovice",
+        "flashscore_url": "https://www.flashscore.com//team/ceske-budejovice/bJ4XSQ6B/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Karvina",
+        "flashscore_url": "https://www.flashscore.com//team/mfk-karvina/dKoDZLRL/",
+        "league_id": "45345583-2b96-4090-9031-a37066f09c89",
+        "league_name": "First League",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Dukla Prague",
+        "flashscore_url": "https://www.flashscore.com//team/dukla-prague/tKH71vSe/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Vyskov",
+        "flashscore_url": "https://www.flashscore.com//team/mfk-vyskov/SASaH9lD/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Taborsko",
+        "flashscore_url": "https://www.flashscore.com//team/taborsko/Ac5V8ZVI/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Sigma Olomouc B",
+        "flashscore_url": "https://www.flashscore.com//team/sigma-olomouc/Cxcm4Hum/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Chrudim",
+        "flashscore_url": "https://www.flashscore.com//team/chrudim/rLwm2Ork/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Lisen",
+        "flashscore_url": "https://www.flashscore.com//team/lisen/zHLktbZ1/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Sparta Prague B",
+        "flashscore_url": "https://www.flashscore.com//team/sparta-prague/fPKjHmup/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Vlasim",
+        "flashscore_url": "https://www.flashscore.com//team/vlasim/xjRqQOmL/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Brno",
+        "flashscore_url": "https://www.flashscore.com//team/brno/4d5TT6i5/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Pribram",
+        "flashscore_url": "https://www.flashscore.com//team/pribram/UL3SitR7/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Jihlava",
+        "flashscore_url": "https://www.flashscore.com//team/jihlava/IwI0Uusk/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Opava",
+        "flashscore_url": "https://www.flashscore.com//team/opava/0EDHzr4L/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Zizkov",
+        "flashscore_url": "https://www.flashscore.com//team/zizkov/xWWzm0zj/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Varnsdorf",
+        "flashscore_url": "https://www.flashscore.com//team/varnsdorf/IsUetO2E/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Prostejov",
+        "flashscore_url": "https://www.flashscore.com//team/prostejov/Gtztv1X8/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Kromeriz",
+        "flashscore_url": "https://www.flashscore.com//team/kromeriz/G6BH9wIP/",
+        "league_id": "00bc5be7-3a92-40c5-b626-4e07650bca1c",
+        "league_name": "FNL",
+        "league_country": "Czech Republic"
+    },
+    {
+        "flashscore_name": "Young Boys",
+        "flashscore_url": "https://www.flashscore.com//team/young-boys/YXDi6MHo/",
+        "league_id": "f06868d1-7a9e-4462-9cbb-84e9f1143d07",
+        "league_name": "Super League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Lugano",
+        "flashscore_url": "https://www.flashscore.com//team/lugano/IHaUjgT1/",
+        "league_id": "f06868d1-7a9e-4462-9cbb-84e9f1143d07",
+        "league_name": "Super League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Servette",
+        "flashscore_url": "https://www.flashscore.com//team/servette/Ov2LFx62/",
+        "league_id": "f06868d1-7a9e-4462-9cbb-84e9f1143d07",
+        "league_name": "Super League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "St. Gallen",
+        "flashscore_url": "https://www.flashscore.com//team/st-gallen/bkxMEx1T/",
+        "league_id": "f06868d1-7a9e-4462-9cbb-84e9f1143d07",
+        "league_name": "Super League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Winterthur",
+        "flashscore_url": "https://www.flashscore.com//team/winterthur/vRvKpKGc/",
+        "league_id": "f06868d1-7a9e-4462-9cbb-84e9f1143d07",
+        "league_name": "Super League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Zurich",
+        "flashscore_url": "https://www.flashscore.com//team/zurich/COCe5tXi/",
+        "league_id": "f06868d1-7a9e-4462-9cbb-84e9f1143d07",
+        "league_name": "Super League",
+        "league_country": "Switzerland"
+    },
+    {
+        "flashscore_name": "Gent",
+        "flashscore_url": "https://www.flashscore.com//team/gent/MgkzUx7T/",
+        "league_id": "9880c681-ee44-4f08-b423-0e08ff4e04e4",
+        "league_name": "Pro League",
+        "league_country": "Belgium"
+    },
+    {
+        "flashscore_name": "KV Mechelen",
+        "flashscore_url": "https://www.flashscore.com//team/kv-mechelen/ULVIb27i/",
+        "league_id": "9880c681-ee44-4f08-b423-0e08ff4e04e4",
+        "league_name": "Pro League",
+        "league_country": "Belgium"
+    },
+    {
+        "flashscore_name": "St. Truiden",
+        "flashscore_url": "https://www.flashscore.com//team/st-truiden/d2EjBxMM/",
+        "league_id": "9880c681-ee44-4f08-b423-0e08ff4e04e4",
+        "league_name": "Pro League",
+        "league_country": "Belgium"
+    },
+    {
+        "flashscore_name": "Leuven",
+        "flashscore_url": "https://www.flashscore.com//team/leuven/dYlTycNN/",
+        "league_id": "9880c681-ee44-4f08-b423-0e08ff4e04e4",
+        "league_name": "Pro League",
+        "league_country": "Belgium"
+    },
+    {
+        "flashscore_name": "St. Liege",
+        "flashscore_url": "https://www.flashscore.com//team/st-liege/vsnvCI6G/",
+        "league_id": "9880c681-ee44-4f08-b423-0e08ff4e04e4",
+        "league_name": "Pro League",
+        "league_country": "Belgium"
+    },
+    {
+        "flashscore_name": "Westerlo",
+        "flashscore_url": "https://www.flashscore.com//team/westerlo/hYaM5Gqp/",
+        "league_id": "9880c681-ee44-4f08-b423-0e08ff4e04e4",
+        "league_name": "Pro League",
+        "league_country": "Belgium"
+    },
+    {
+        "flashscore_name": "Celtic",
+        "flashscore_url": "https://www.flashscore.com//team/celtic/QFKRRD8M/",
+        "league_id": "c9a7ed11-dcd4-4183-8859-2d9fce04eba5",
+        "league_name": "Premiership",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Rangers",
+        "flashscore_url": "https://www.flashscore.com//team/rangers/8vAWQXNS/",
+        "league_id": "c9a7ed11-dcd4-4183-8859-2d9fce04eba5",
+        "league_name": "Premiership",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Hearts",
+        "flashscore_url": "https://www.flashscore.com//team/hearts/0rGrwwNc/",
+        "league_id": "c9a7ed11-dcd4-4183-8859-2d9fce04eba5",
+        "league_name": "Premiership",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Kilmarnock",
+        "flashscore_url": "https://www.flashscore.com//team/kilmarnock/jX8ezy7G/",
+        "league_id": "c9a7ed11-dcd4-4183-8859-2d9fce04eba5",
+        "league_name": "Premiership",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "St. Mirren",
+        "flashscore_url": "https://www.flashscore.com//team/st-mirren/tAVXZEyT/",
+        "league_id": "c9a7ed11-dcd4-4183-8859-2d9fce04eba5",
+        "league_name": "Premiership",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Dundee FC",
+        "flashscore_url": "https://www.flashscore.com//team/dundee-fc/hjIyrgaj/",
+        "league_id": "c9a7ed11-dcd4-4183-8859-2d9fce04eba5",
+        "league_name": "Premiership",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Dundee Utd",
+        "flashscore_url": "https://www.flashscore.com//team/dundee-utd/8QEB2FFp/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Raith",
+        "flashscore_url": "https://www.flashscore.com//team/raith/YJUiAWcR/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Partick Thistle",
+        "flashscore_url": "https://www.flashscore.com//team/partick/d8M05zM9/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Airdrieonians",
+        "flashscore_url": "https://www.flashscore.com//team/airdrieonians/KWzLBhEq/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Morton",
+        "flashscore_url": "https://www.flashscore.com//team/morton/0xXZ4G63/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Dunfermline",
+        "flashscore_url": "https://www.flashscore.com//team/dunfermline/Eg3xY5eg/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Ayr",
+        "flashscore_url": "https://www.flashscore.com//team/ayr/ruTxaWrd/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Inverness",
+        "flashscore_url": "https://www.flashscore.com//team/inverness/88JjyHiA/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Queen's Park",
+        "flashscore_url": "https://www.flashscore.com//team/queen-s-park/xluR9CrL/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "Arbroath",
+        "flashscore_url": "https://www.flashscore.com//team/arbroath/prrz4Uze/",
+        "league_id": "4b6279e9-a93b-4632-a495-2059492f7a4d",
+        "league_name": "Championship",
+        "league_country": "Scotland"
+    },
+    {
+        "flashscore_name": "APOEL",
+        "flashscore_url": "https://www.flashscore.com//team/apoel/OKJwmfm3/",
+        "league_id": "2417eea7-695e-4432-bf11-aa4fb70ee7a4",
+        "league_name": "First Division",
+        "league_country": "Cyprus"
+    },
+    {
+        "flashscore_name": "AEK Larnaca",
+        "flashscore_url": "https://www.flashscore.com//team/aek-larnaca/4lUZQCQq/",
+        "league_id": "2417eea7-695e-4432-bf11-aa4fb70ee7a4",
+        "league_name": "First Division",
+        "league_country": "Cyprus"
+    },
+    {
+        "flashscore_name": "Omonia",
+        "flashscore_url": "https://www.flashscore.com//team/omonia/GSLWiAPe/",
+        "league_id": "2417eea7-695e-4432-bf11-aa4fb70ee7a4",
+        "league_name": "First Division",
+        "league_country": "Cyprus"
+    },
+    {
+        "flashscore_name": "Aris",
+        "flashscore_url": "https://www.flashscore.com//team/aris-limassol/tINNchXL/",
+        "league_id": "2417eea7-695e-4432-bf11-aa4fb70ee7a4",
+        "league_name": "First Division",
+        "league_country": "Cyprus"
+    },
+    {
+        "flashscore_name": "Paphos",
+        "flashscore_url": "https://www.flashscore.com//team/paphos/n99DUVW8/",
+        "league_id": "2417eea7-695e-4432-bf11-aa4fb70ee7a4",
+        "league_name": "First Division",
+        "league_country": "Cyprus"
+    },
+    {
+        "flashscore_name": "Anorthosis",
+        "flashscore_url": "https://www.flashscore.com//team/anorthosis/pUKZmzYd/",
+        "league_id": "2417eea7-695e-4432-bf11-aa4fb70ee7a4",
+        "league_name": "First Division",
+        "league_country": "Cyprus"
+    },
+    {
+        "flashscore_name": "AEK Athens FC",
+        "flashscore_url": "https://www.flashscore.com//team/aek/ANpZncAM/",
+        "league_id": "ece70344-ef19-44a5-8154-5832d33f045b",
+        "league_name": "Super League",
+        "league_country": "Greece"
+    },
+    {
+        "flashscore_name": "Panathinaikos",
+        "flashscore_url": "https://www.flashscore.com//team/panathinaikos/SENMmweG/",
+        "league_id": "ece70344-ef19-44a5-8154-5832d33f045b",
+        "league_name": "Super League",
+        "league_country": "Greece"
+    },
+    {
+        "flashscore_name": "PAOK",
+        "flashscore_url": "https://www.flashscore.com//team/paok/Kry6HxA9/",
+        "league_id": "ece70344-ef19-44a5-8154-5832d33f045b",
+        "league_name": "Super League",
+        "league_country": "Greece"
+    },
+    {
+        "flashscore_name": "Olympiacos Piraeus",
+        "flashscore_url": "https://www.flashscore.com//team/olympiacos-piraeus/hnzvnHPS/",
+        "league_id": "ece70344-ef19-44a5-8154-5832d33f045b",
+        "league_name": "Super League",
+        "league_country": "Greece"
+    },
+    {
+        "flashscore_name": "Aris",
+        "flashscore_url": "https://www.flashscore.com//team/aris/SvR5syYq/",
+        "league_id": "ece70344-ef19-44a5-8154-5832d33f045b",
+        "league_name": "Super League",
+        "league_country": "Greece"
+    },
+    {
+        "flashscore_name": "Lamia",
+        "flashscore_url": "https://www.flashscore.com//team/lamia/hGScTrsI/",
+        "league_id": "ece70344-ef19-44a5-8154-5832d33f045b",
+        "league_name": "Super League",
+        "league_country": "Greece"
+    },
+    {
+        "flashscore_name": "Galatasaray",
+        "flashscore_url": "https://www.flashscore.com//team/galatasaray/riaqqurF/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Fenerbahce",
+        "flashscore_url": "https://www.flashscore.com//team/fenerbahce/MsbmracL/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Trabzonspor",
+        "flashscore_url": "https://www.flashscore.com//team/trabzonspor/MmsYDc03/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Besiktas",
+        "flashscore_url": "https://www.flashscore.com//team/besiktas/IDmErJCR/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Basaksehir",
+        "flashscore_url": "https://www.flashscore.com//team/basaksehir/YqP5NmC1/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Rizespor",
+        "flashscore_url": "https://www.flashscore.com//team/rizespor/EFRnJdkr/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Kasimpasa",
+        "flashscore_url": "https://www.flashscore.com//team/kasimpasa/dOlaIG4l/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Antalyaspor",
+        "flashscore_url": "https://www.flashscore.com//team/antalyaspor/GAtxDHF9/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Alanyaspor",
+        "flashscore_url": "https://www.flashscore.com//team/alanyaspor/IcN8oPcJ/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Sivasspor",
+        "flashscore_url": "https://www.flashscore.com//team/sivasspor/OvblvwLr/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Adana Demirspor",
+        "flashscore_url": "https://www.flashscore.com//team/adanademirspor/8AShqI0G/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Samsunspor",
+        "flashscore_url": "https://www.flashscore.com//team/samsunspor/pSc6z7bf/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Ankaragucu",
+        "flashscore_url": "https://www.flashscore.com//team/ankaragucu/OWyZjzgj/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Kayserispor",
+        "flashscore_url": "https://www.flashscore.com//team/kayserispor/8pwUEwoc/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Konyaspor",
+        "flashscore_url": "https://www.flashscore.com//team/konyaspor/YazuCbCE/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Gaziantep",
+        "flashscore_url": "https://www.flashscore.com//team/gaziantep/ITkIKZ7q/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Karagumruk",
+        "flashscore_url": "https://www.flashscore.com//team/f-karagumruk/Cv7CWW8n/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Hatayspor",
+        "flashscore_url": "https://www.flashscore.com//team/hatayspor/ENFkH8NH/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Pendikspor",
+        "flashscore_url": "https://www.flashscore.com//team/pendikspor/dQVdH97o/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Istanbulspor AS",
+        "flashscore_url": "https://www.flashscore.com//team/istanbulspor-as/bwbQIDxd/",
+        "league_id": "ae4be110-6db0-44d4-8ce5-7c35409154f0",
+        "league_name": "Süper Lig",
+        "league_country": "Turkey"
+    },
+    {
+        "flashscore_name": "Arsenal",
+        "flashscore_url": "https://www.flashscore.com//team/arsenal/hA1Zm19f/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Liverpool",
+        "flashscore_url": "https://www.flashscore.com//team/liverpool/lId4TMwf/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Manchester City",
+        "flashscore_url": "https://www.flashscore.com//team/manchester-city/Wtn9Stg0/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Aston Villa",
+        "flashscore_url": "https://www.flashscore.com//team/aston-villa/W00wmLO0/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Tottenham",
+        "flashscore_url": "https://www.flashscore.com//team/tottenham/UDg08Ohm/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Newcastle",
+        "flashscore_url": "https://www.flashscore.com//team/newcastle-utd/p6ahwuwJ/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Manchester Utd",
+        "flashscore_url": "https://www.flashscore.com//team/manchester-united/ppjDR086/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "West Ham",
+        "flashscore_url": "https://www.flashscore.com//team/west-ham/Cxq57r8g/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Chelsea",
+        "flashscore_url": "https://www.flashscore.com//team/chelsea/4fGZN2oK/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Brighton",
+        "flashscore_url": "https://www.flashscore.com//team/brighton/2XrRecc3/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Wolves",
+        "flashscore_url": "https://www.flashscore.com//team/wolves/j3Azpf5d/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Fulham",
+        "flashscore_url": "https://www.flashscore.com//team/fulham/69ZiU2Om/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Bournemouth",
+        "flashscore_url": "https://www.flashscore.com//team/bournemouth/OtpNdwrc/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Crystal Palace",
+        "flashscore_url": "https://www.flashscore.com//team/crystal-palace/AovF1Mia/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Brentford",
+        "flashscore_url": "https://www.flashscore.com//team/brentford/xYe7DwID/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Everton",
+        "flashscore_url": "https://www.flashscore.com//team/everton/KluSTr9s/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Nottingham",
+        "flashscore_url": "https://www.flashscore.com//team/nottingham/UsushcZr/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Luton",
+        "flashscore_url": "https://www.flashscore.com//team/luton/SlybbadF/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Burnley",
+        "flashscore_url": "https://www.flashscore.com//team/burnley/z3dmTMMO/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Sheffield Utd",
+        "flashscore_url": "https://www.flashscore.com//team/sheffield-utd/MeKPSerA/",
+        "league_id": "39de362a-198c-4b55-a7cc-46f9539dc262",
+        "league_name": "Premier League",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Portsmouth",
+        "flashscore_url": "https://www.flashscore.com//team/portsmouth/zckREQFJ/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Derby",
+        "flashscore_url": "https://www.flashscore.com//team/derby/Iug0YO0Q/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Bolton",
+        "flashscore_url": "https://www.flashscore.com//team/bolton/Or1bBrWD/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Peterborough",
+        "flashscore_url": "https://www.flashscore.com//team/peterborough/tWeI85kh/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Barnsley",
+        "flashscore_url": "https://www.flashscore.com//team/barnsley/UNGEKMx6/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Lincoln",
+        "flashscore_url": "https://www.flashscore.com//team/lincoln-city/hrHTRs5B/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Oxford Utd",
+        "flashscore_url": "https://www.flashscore.com//team/oxford-utd/vgOBT43c/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Blackpool",
+        "flashscore_url": "https://www.flashscore.com//team/blackpool/8EFIJthC/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Stevenage",
+        "flashscore_url": "https://www.flashscore.com//team/stevenage/ANwyQM2M/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Wycombe",
+        "flashscore_url": "https://www.flashscore.com//team/wycombe/hl2V5JIl/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Leyton Orient",
+        "flashscore_url": "https://www.flashscore.com//team/leyton-orient/KKyYcus9/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Exeter",
+        "flashscore_url": "https://www.flashscore.com//team/exeter/ve14a3l4/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Wigan",
+        "flashscore_url": "https://www.flashscore.com//team/wigan/MgHlK2Na/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Northampton",
+        "flashscore_url": "https://www.flashscore.com//team/northampton/l4P6dwRR/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Bristol Rovers",
+        "flashscore_url": "https://www.flashscore.com//team/bristol-rovers/GILi6JC9/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Charlton",
+        "flashscore_url": "https://www.flashscore.com//team/charlton/fXf5mQ7t/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Reading",
+        "flashscore_url": "https://www.flashscore.com//team/reading/EmlVDpVP/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Shrewsbury",
+        "flashscore_url": "https://www.flashscore.com//team/shrewsbury/EqfQ6qK4/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Cambridge Utd",
+        "flashscore_url": "https://www.flashscore.com//team/cambridge-utd/lnb8EJRp/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Burton",
+        "flashscore_url": "https://www.flashscore.com//team/burton/nwCtJaJT/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Cheltenham",
+        "flashscore_url": "https://www.flashscore.com//team/cheltenham/jizXHcsM/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Fleetwood",
+        "flashscore_url": "https://www.flashscore.com//team/fleetwood-town/tCZ3D68d/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Port Vale",
+        "flashscore_url": "https://www.flashscore.com//team/port-vale/U3lM3y4e/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Carlisle",
+        "flashscore_url": "https://www.flashscore.com//team/carlisle/dUzTIwSF/",
+        "league_id": "4e0b9e1c-7a9b-4029-8522-640920bc2e05",
+        "league_name": "EFL League One",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Stockport County",
+        "flashscore_url": "https://www.flashscore.com//team/stockport-county/IX6WjNvr/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Mansfield",
+        "flashscore_url": "https://www.flashscore.com//team/mansfield/t6G9wMZN/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Wrexham",
+        "flashscore_url": "https://www.flashscore.com//team/wrexham/IgO7K1ZA/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "MK Dons",
+        "flashscore_url": "https://www.flashscore.com//team/milton-keynes-dons/f9KDxtkU/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Doncaster",
+        "flashscore_url": "https://www.flashscore.com//team/doncaster/hlzYDy5q/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Crewe",
+        "flashscore_url": "https://www.flashscore.com//team/crewe/YacqHHdS/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Barrow",
+        "flashscore_url": "https://www.flashscore.com//team/barrow/KKJL7QXd/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Crawley",
+        "flashscore_url": "https://www.flashscore.com//team/crawley-town/QVmLl54o/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Bradford City",
+        "flashscore_url": "https://www.flashscore.com//team/bradford-city/bsc3EJ27/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Walsall",
+        "flashscore_url": "https://www.flashscore.com//team/walsall/YgrfcLuL/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Gillingham",
+        "flashscore_url": "https://www.flashscore.com//team/gillingham/WvZyDeKk/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "AFC Wimbledon",
+        "flashscore_url": "https://www.flashscore.com//team/afc-wimbledon/4KREuF43/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Harrogate",
+        "flashscore_url": "https://www.flashscore.com//team/harrogate/CQv5qrFt/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Notts Co",
+        "flashscore_url": "https://www.flashscore.com//team/notts-county/EwJVdqzn/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Tranmere",
+        "flashscore_url": "https://www.flashscore.com//team/tranmere/jVhkb1QE/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Morecambe",
+        "flashscore_url": "https://www.flashscore.com//team/morecambe/zmKRcPKu/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Newport",
+        "flashscore_url": "https://www.flashscore.com//team/newport/ChwgcrNJ/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Accrington",
+        "flashscore_url": "https://www.flashscore.com//team/accrington/6ZvdGuYf/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Swindon",
+        "flashscore_url": "https://www.flashscore.com//team/swindon/xSloasB8/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Salford",
+        "flashscore_url": "https://www.flashscore.com//team/salford/W4AadhN3/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Grimsby",
+        "flashscore_url": "https://www.flashscore.com//team/grimsby/OEaiS3za/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Colchester",
+        "flashscore_url": "https://www.flashscore.com//team/colchester/xYu73rNn/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Sutton",
+        "flashscore_url": "https://www.flashscore.com//team/sutton/8OOOiMps/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Forest Green",
+        "flashscore_url": "https://www.flashscore.com//team/forest-green/v7ZNnsJG/",
+        "league_id": "0fe62252-964c-4b5d-9e72-86567613451a",
+        "league_name": "EFL League Two",
+        "league_country": "England"
+    },
+    {
+        "flashscore_name": "Sogndal",
+        "flashscore_url": "https://www.flashscore.com//team/sogndal/r5la287M/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Kongsvinger",
+        "flashscore_url": "https://www.flashscore.com//team/kongsvinger/EcKec6pj/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Levanger",
+        "flashscore_url": "https://www.flashscore.com//team/levanger/dIBUOYl6/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Egersund",
+        "flashscore_url": "https://www.flashscore.com//team/egersund/0t64gHeU/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Stabaek",
+        "flashscore_url": "https://www.flashscore.com//team/stabaek/CbXNfZvn/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Bryne",
+        "flashscore_url": "https://www.flashscore.com//team/bryne/pvMoTnGj/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Moss",
+        "flashscore_url": "https://www.flashscore.com//team/moss/WYUjbnVq/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Lyn",
+        "flashscore_url": "https://www.flashscore.com//team/lyn/xO9cNjg4/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Valerenga",
+        "flashscore_url": "https://www.flashscore.com//team/valerenga/ph9NNA8A/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Ranheim",
+        "flashscore_url": "https://www.flashscore.com//team/ranheim/bBV1xQEk/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Sandnes",
+        "flashscore_url": "https://www.flashscore.com//team/sandnes-ulf/QRtP7D9b/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Aalesund",
+        "flashscore_url": "https://www.flashscore.com//team/aalesund/nyrL8gfh/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Asane",
+        "flashscore_url": "https://www.flashscore.com//team/asane/bJZUbRjF/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Mjondalen",
+        "flashscore_url": "https://www.flashscore.com//team/mjondalen/KdJGFTF8/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Start",
+        "flashscore_url": "https://www.flashscore.com//team/start/CUoNY9xc/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    },
+    {
+        "flashscore_name": "Raufoss",
+        "flashscore_url": "https://www.flashscore.com//team/raufoss/tM5lsElg/",
+        "league_id": "af2b2c64-5e07-4ce0-89d4-c45c92ef23ad",
+        "league_name": "First Division",
+        "league_country": "Norway"
+    }
+]

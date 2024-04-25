@@ -20,6 +20,9 @@ kickoff
 url
 round
 
+
+div#tournament-table > div.ui-table > div.ui-table__body > ui-table__row > a.tableCellParticipant__name [href]
+
 """
 
 

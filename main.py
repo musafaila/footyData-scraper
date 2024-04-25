@@ -1,40 +1,43 @@
 # from scrapers.footystats.footystats import scraper as footystats_scraper
-from scrapers.primatips.scraper import primatips_scraper 
+from scrapers.primatips.scraper import primatips_scraper
+from scrapers.flashscore.table_scraper import scrape_league_table as scrape_flash_table
 
-# from scrapers.flashscore.flashscore import add_flash_urls
 
-from utils import (
+from lib.utils import (
     safeRequest,
     initiate_driver,
     save_to_json,
     load_json,
     merge_json_files,
 )
-from lib.add_urls import add_teams_urls
+from lib.add_teams_urls import add_site_urls
 from db.supabase import save_data, initiate_client, fetch_data
 
 
+# from playwright.sync_api import sync_playwright
+
 def main():
 
-    for i in range(10, 37):
-        league_index: int = i
+    scraped_teams_data = load_json("data/flash_team_name.json")
+    teams_db_data = load_json("data/teams.json")
+    leagues_db_data = load_json("data/leagues_DB_records.json")
 
-        # Teams data that will represent the teamA data point
-        teams_data = load_json("data/teams.json")
-        # Leagues DB data that will represent the teamB data point
-        leagues_db_data = load_json("data/leagues_DB_records.json")
+    add_site_urls(scraped_teams_data, teams_db_data, leagues_db_data)
 
-        add_teams_urls(
-            teams_data,  # Json file 1
-            leagues_db_data,  # Json file 2
-            league_index=league_index,
-            **{
-                "scraping_func": primatips_scraper,
-                "req": safeRequest,
-                "driver": None,
-                "save_to_json": save_to_json,
-            }
-        )
+
+    # with sync_playwright() as p:
+    #     browser = p.chromium.launch()
+    #     page = browser.new_page()
+    #     page.goto("https://www.flashscore.com/")
+    #     page
+
+    # with initiate_driver(headless=False) as driver:    
+
+    #     league_data = load_json("data/leagues_DB_records.json")
+
+    #     scraped_data = scrape_flash_table(driver, league_data)
+
+    #     save_to_json("data/flash_team_name.json", scraped_data)
 
     # NOTE: THIS SPACE IS FOR FOOTYSTATS SCRAPERS!
     # run all scrapers here

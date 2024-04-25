@@ -62,9 +62,11 @@ def safeRequest(url, max_retries=3, retry_delay=2, timeout=10):
                 print("Request failed due to unknown error: ", e)
 
 
-def initiate_driver():
+def initiate_driver(headless):
     firefox_options: Options = Options()
-    firefox_options.add_argument("-headless")
+
+    if headless:        
+        firefox_options.add_argument("-headless")
 
     try:
         driver = webdriver.Firefox(options=firefox_options)

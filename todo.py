@@ -16,4 +16,49 @@ Todo: scrape live stats and update the fixtures table.
 
 Todo: Add proper eroor handling
 
+
+NOTE: CORRECTIONS
+
+    1. netherlands Eredivise
+
+    2. Israeli Pl
+        - Beitar Jerusalem FC => H. Beer Sheva
+        - Maccabi Petah Tikva FC => Maccabi Tel Aviv
+        - Hapoel Tel Aviv FC => Maccabi Tel Aviv
+        - Maccabi Netanya FC => Maccabi Bnei Raina
+        - downwards
+
+    3. Scotland premiership
+        - Aberdeen FC => Dundee 
+        - All
+
+    4. Belgium Pro League
+
+    5. Greece super league
+        - just all
+
+    6. Denmark superliga
+        - Odense => Copenhagen
+        - all
+
+
+NOTE: CLEARED
+    1- England EFL league one
+    2- Noway Eliteserien
+    3- Norway First division
+    4- Czech R. First league
+    5- Portugal LigaPro
+    6- England PL
+    7- Italy Serie B
+    8- Turkey super league
+    9- Sweden Superettan
+    10- Endland epl lg 2
+    11- Czech R. FNL
+    12- Spain Laliga
+    13- Portugal Liga NOS
+    14- France Ligue 1
+    15- France Ligue 2
+    16- Spain Segunda Division
+    17- Italy serie A
+
 """

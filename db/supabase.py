@@ -1,17 +1,17 @@
 import os
 from supabase import create_client, Client
-# from supabase.error.httpcore import ConnectTimeout as supabaseTimeOutError
 
-from dotenv import load_dotenv
-from tenacity import retry_if_exception_type
+# from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
+SUPABASE_URL="https://pggnbchxenibpicpynwj.supabase.co"
+SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBnZ25iY2h4ZW5pYnBpY3B5bndqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDgwMzQ2NjUsImV4cCI6MjAyMzYxMDY2NX0.GrrrI6hLeZfeLzkE-kI4nX-efDJ7KYiPD4hmY-DNRuY"
 
 def initiate_client() -> Client:
 
-    SUPABASE_URL: str = os.environ.get("SUPABASE_URL")
-    SUPABASE_KEY: str = os.environ.get("SUPABASE_KEY")
+    # SUPABASE_URL: str = os.environ.get("SUPABASE_URL")
+    # SUPABASE_KEY: str = os.environ.get("SUPABASE_KEY")
 
     try:
         supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
@@ -38,7 +38,6 @@ def save_data(data_to_save: [], table):
             continue
 
 
-# @retry(retry=retry_if_exception_type(supabaseTimeOutError))
 def fetch_data(
     table: str,
     query: str,

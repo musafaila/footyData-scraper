@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/faila/Vscode/web-scraping/projects/live-odds-cashout/footyData-scraper/venv"
+set -gx VIRTUAL_ENV "/home/faila/code/footyData-scraper/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

@@ -1,5 +1,7 @@
 from fuzzywuzzy import fuzz
 
+from lib.utils import save_to_json
+
 
 """
 todo: Grab the league data json
@@ -33,11 +35,11 @@ def merge_teams_with_similar_name(dataA, dataB):
         max_score = 0
         for teamB in dataB:
             # Calculate fuzzy string similarity score (Levenshtein distance)
-            name_score = fuzz.ratio(teamA["name"], teamB["primatips_name"])
+            name_score = fuzz.ratio(teamA["name"], teamB["flashscore_name"])
 
             # Consider exact URL match as a strong indicator (if available)
             url_score = (
-                100 if teamA["name"].lower() in teamB["primatips_url"].lower() else 0
+                100 if teamA["name"].lower() in teamB["flashscore_url"].lower() else 0
             )
 
             # Optionally, consider league information for additional validation
@@ -63,39 +65,52 @@ def merge_teams_with_similar_name(dataA, dataB):
     return merged_data
 
 
-def add_teams_urls(teams_data, leagues_db_data, **kwargs):
+def add_teams_urls(filtered_teams, filtered_scraped_teams, league):
 
     try:
-        scraping_func = kwargs.get("scraping_func")
-        req = kwargs.get("req")
-        driver = kwargs.get("driver")
-        league_index = kwargs.get("league_index")
-        save_to_json = kwargs.get("save_to_json")
 
-        # select leagues based on the given index
-        selected_league = leagues_db_data[league_index]
-        # Filter teams based on league_id
-        selected_teams = [
-            team for team in teams_data if team["league_id"] == selected_league["id"]
-        ]
-
-        # NOTE: league_data is expected to be a list, so you have to pass it as a list even if it is a single element.
-        teams_info = scraping_func(req, **{"league_data": [selected_league]})
-
-        data_to_merge = {"dataA": selected_teams, "dataB": teams_info}
+        data_to_merge = {"dataA": filtered_teams, "dataB": filtered_scraped_teams}
 
         merged_data = merge_teams_with_similar_name(
             data_to_merge["dataA"], data_to_merge["dataB"]
         )
 
-        league_name = selected_league.get("name")
-        path = f"data/primatips/url_added/{league_name}.json"
-        save_to_json(path, merged_data)
+        league_name = league.get("name")
+        path = f"data/flashscore/url_added/{league_name}.json"
 
         print("Operation Successfull!")
 
-        return "success"
+        return {"data": merged_data, "path": path}
 
     except Exception as err:
         print(f"Error while adding scraping URLS: {err}")
         return
+
+
+def add_site_urls(scraped_teams_data, teams_db_data, leagues_db_data):
+    # scraped_teams_data: This is the data that is scraped from the site i.e the data to be mergerd
+    # teams_db_data: This is the data of teams in our db, we merge the scraped data into this one
+    # leagues_db_data: This is the data of leagues in our db, we use it to find best matches
+
+    for league in leagues_db_data:
+        # league_index = leagues_db_data.index(league)
+        # filtered_league = league
+
+        try:
+            # Filter teams based on league_id
+            filtered_teams = [
+                team for team in teams_db_data if team["league_id"] == league["id"]
+            ]
+            filtered_scraped_teams = [
+                team for team in scraped_teams_data if team["league_id"] == league["id"]
+            ]
+
+            merged_data = add_teams_urls(filtered_teams, filtered_scraped_teams, league)
+
+            data = merged_data["data"]
+            path = merged_data["path"]
+
+            save_to_json(path, data)
+        except Exception as error:
+            print(error, league.get("name"))
+            continue
